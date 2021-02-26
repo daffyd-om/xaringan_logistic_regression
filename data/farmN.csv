@@ -1,0 +1,42 @@
+idf,loc,ftype,btype,numB,period,usage,ast,status
+Farm 01,Sokoto,Semi-commercial,Layers,850,24,36,Sensitive,Sensitive
+Farm 02,Sokoto,Backyard,Broilers,200,6,40,Resistance,Multi_drug_Res
+Farm 03,Sokoto,Backyard,Broilers,200,6,56,Resistance,Multi_drug_Res
+Farm 04,Sokoto,Small scale,Layers,2300,24,21,Sensitive,Sensitive
+Farm 05,Sokoto,Semi-commercial,Broilers,250,6,48,Resistance,Multi_drug_Res
+Farm 06,Sokoto,Small scale,Broilers,4000,6,12,Resistance,Multi_drug_Res
+Farm 07,Sokoto,Small scale,Broilers,1500,6,76,Resistance,Resistant
+Farm 08,Sokoto,Small scale,Layers,2900,24,22,Sensitive,Sensitive
+Farm 09,Sokoto,Large scale,Layers,27000,24,8,Sensitive,Sensitive
+Farm 10,Sokoto,Large scale,Layers,12000,24,20,Sensitive,Sensitive
+Farm 11,Sokoto,Large scale,Broilers,23000,6,72,Resistance,Multi_drug_Res
+Farm 12,Sokoto,Small scale,Layers,1750,24,32,Resistance,Multi_drug_Res
+Farm 13,Sokoto,Small scale,Broilers,1300,6,55,Resistance,Resistant
+Farm 14,Sokoto,Small scale,Layers,1800,24,42,Sensitive,Sensitive
+Farm 15,Sokoto,Large scale,Layers,18000,24,1,Sensitive,Sensitive
+Farm 16,Zamfara,Large Scale,Layers,125000,24,32,Sensitive,Sensitive
+Farm 17,Zamfara,Large Scale,Layers,75000,24,19,Sensitive,Sensitive
+Farm 18,Zamfara,Medium scale,Broilers,5000,6,103,Resistance,Resistant
+Farm 19,Zamfara,Large scale,Layers,60000,24,7,Sensitive,Sensitive
+Farm 20,Zamfara,Large scale,Layers,82000,24,6,Sensitive,Sensitive
+Farm 21,Zamfara,Backyard,Broilers,130,6,87,Sensitive,Sensitive
+Farm 22,Zamfara,Semi-commercial,Layers,300,24,54,Resistance,Multi_drug_Res
+Farm 23,Zamfara,Small scale,Broilers,1200,6,119,Resistance,Multi_drug_Res
+Farm 24,Zamfara,Backyard,Broilers,152,6,99,Sensitive,Sensitive
+Farm 25,Zamfara,Semi-commercial,Broilers,750,6,100,Resistance,Resistant
+Farm 26,Zamfara,Medium scale,Layers,5050,24,22,Resistance,Resistant
+Farm 27,Zamfara,Small scale,Broilers,4500,6,71,Resistance,Multi_drug_Res
+Farm 28,Zamfara,Semi-commercial,Layers,500,24,20,Resistance,Multi_drug_Res
+Farm 29,Zamfara,Backyard,Broilers,120,6,139,Sensitive,Sensitive
+Farm 30,Zamfara,Small scale,Broilers,300,6,33,Resistance,Multi_drug_Res
+Farm 31,Kebbi,Semi-commercial,Broilers,500,6,23,Sensitive,Sensitive
+Farm 32,Kebbi,Large scale,Layers,70000,24,8,Sensitive,Sensitive
+Farm 33,Kebbi,Semi-commercial,Layers,1000,24,43,Resistance,Multi_drug_Res
+Farm 34,Kebbi,Medium scale,Layers,7500,24,12,Sensitive,Sensitive
+Farm 35,Kebbi,Small scale,layers,1160,24,27,Sensitive,Sensitive
+Farm 36,Kebbi,Small scale,Broilers,1200,6,130,Resistance,Multi_drug_Res
+Farm 37,Kebbi,Semi-commercial,Broilers,250,6,37,Resistance,Resistant
+Farm 38,Kebbi ,Semi-commercial,Broilers,350,6,44,Resistance,Multi_drug_Res
+Farm 39,Kebbi,Semi-commercial,Layers,720,24,17,Sensitive,Sensitive
+Farm 40,Kebbi,Small scale,Broilers,2500,6,59,Resistance,Resistant
+Farm 41,Kebbi,Small scale,layers,3250,24,22,Sensitive,Sensitive

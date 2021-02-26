@@ -1,0 +1,375 @@
+<!DOCTYPE html>
+<html lang="" xml:lang="">
+  <head>
+    <title>Analyse the strength of associations between binary or binomial distributed outcomes and exposure variables</title>
+    <meta charset="utf-8" />
+    <script src="logisticR_files/header-attrs/header-attrs.js"></script>
+    <link href="logisticR_files/remark-css/default.css" rel="stylesheet" />
+    <link href="logisticR_files/remark-css/default-fonts.css" rel="stylesheet" />
+  </head>
+  <body>
+    <textarea id="source">
+class: center, middle, inverse, title-slide
+
+# Analyse the strength of associations between binary or binomial distributed outcomes and exposure variables
+
+---
+
+class: top, left
+
+&lt;!-- edit name1 and name2 in the YAML above --&gt;
+
+
+
+
+
+## Learning objective
+
+
+- Analyse  the strength of associations between binary or binomial distributed outcomes and exposure variables
+
+
+## Contents
+
+
+- Statistical model
+
+- Recognize when logistic regression can be used, 
+
+
+
+
+???
+sm = formal representation between variables
+use for prediction and explanation
+
+
+
+---
+class: top, center
+
+## What is regression?
+  
+--
+    
+  
+The process of fitting a line or a curve is called regression 
+    
+  
+--
+
+
+&lt;img src="logisticR_files/figure-html/unnamed-chunk-1-1.png" width="50%" /&gt;
+
+
+--
+  
+  
+The formal representation of a relationship is an __statistical model__
+    
+  
+--
+  
+`$$y=a+bx_1+e_1$$`
+
+  
+  
+--
+
+
+ 
+
+
+???
+
+
+-We use regression analysis to estimate relationships among variables
+    
+-In particular: the relationship between a dependent and 1 or more independent variables
+
+`$$p(X)=\beta_0+\beta_1X$$`
+
+
+
+---
+class: top, inverse
+
+
+
+.pull-left[
+
+Continuous variable
+
+![](logisticR_files/figure-html/unnamed-chunk-2-1.png)&lt;!-- --&gt;
+
+linear regression
+
+predict specific y value
+
+given specific x value
+
+
+]
+
+
+--
+
+
+.pull-right[
+
+Binary variable
+
+![](logisticR_files/figure-html/unnamed-chunk-3-1.png)&lt;!-- --&gt;
+
+logistic regression
+
+predict probability y level
+
+given specific x value
+
+
+]
+
+--
+
+.pull-left[
+
+`$$y_i=a+bx_i+e_i$$`
+]
+
+--
+
+.pull-right[
+`$$p(y_i)=a+bx_i$$`
+]
+
+
+
+???
+
+- When do we use logistic regression?
+- dependent variable is dichotomous or binary
+- predicator (independent) variables can be continuous or categorical. They are related to the probability or odds of the outcome variable.
+
+
+
+
+
+
+
+
+
+
+  
+
+---
+
+.pull-left[
+
+`$$p(y)=a+bx_i$$`
+  
+![](logisticR_files/figure-html/lin-1.png)&lt;!-- --&gt;
+]
+
+--
+
+.pull-right[
+
+`$$log[p/(1-p)]_i=a+bx_i$$`
+![](logisticR_files/figure-html/unnamed-chunk-4-1.png)&lt;!-- --&gt;
+
+]
+
+
+--
+
+
+.pull-left[
+
+`$$log[p/(1-p)]_i=a+bx_i$$`
+
+]
+
+
+--
+
+
+.pull-right[
+
+`\(a\)` = intercept
+
+`\(b\)` = slope
+
+`\(x_i\)` = specific `\(x\)` values of the independent variable 
+
+]
+
+
+
+
+
+
+  
+???
+
+The problem with this approach is that when fitting a straight line for a binary dependent variable the probability `\(p(x)\)` for some values of `\(X\)` can go above 1 or below 0. See the following Figure. The probability of Y goes below zero to above one. 
+
+- Suppose that we are interested in the factors that influence whether a ESBL E.Coli is present or not in food samples. The outcome (response) variable is binary (0/1); no present or present. The predictor variables of interest are the origin of the food and the type of food.
+
+
+
+
+ 
+ 
+ 
+
+---
+class: top, left
+
+## Logistic function
+
+
+.pull-left[
+
+- to avoid this, we can use the logistic function to model 
+    
+  `\(p(X)\)` 
+  
+]
+
+--
+
+.pull-right[
+
+
+`$$\frac{p(X)}{1-p(X)}=e^{\beta_0+\beta_1X}$$`
+
+]
+
+
+--
+
+
+.pull-left[
+
+
+`$$\frac{p(X)}{1-p(X)}$$`
+]
+
+
+--
+
+.pull-right[
+
+
+`$$log(\frac{p(X)}1-p{X})=\beta_0+\beta_1X$$`
+]
+
+
+--
+
+
+
+
+    </textarea>
+<style data-target="print-only">@media screen {.remark-slide-container{display:block;}.remark-slide-scaler{box-shadow:none;}}</style>
+<script src="https://remarkjs.com/downloads/remark-latest.min.js"></script>
+<script>var slideshow = remark.create();
+if (window.HTMLWidgets) slideshow.on('afterShowSlide', function (slide) {
+  window.dispatchEvent(new Event('resize'));
+});
+(function(d) {
+  var s = d.createElement("style"), r = d.querySelector(".remark-slide-scaler");
+  if (!r) return;
+  s.type = "text/css"; s.innerHTML = "@page {size: " + r.style.width + " " + r.style.height +"; }";
+  d.head.appendChild(s);
+})(document);
+
+(function(d) {
+  var el = d.getElementsByClassName("remark-slides-area");
+  if (!el) return;
+  var slide, slides = slideshow.getSlides(), els = el[0].children;
+  for (var i = 1; i < slides.length; i++) {
+    slide = slides[i];
+    if (slide.properties.continued === "true" || slide.properties.count === "false") {
+      els[i - 1].className += ' has-continuation';
+    }
+  }
+  var s = d.createElement("style");
+  s.type = "text/css"; s.innerHTML = "@media print { .has-continuation { display: none; } }";
+  d.head.appendChild(s);
+})(document);
+// delete the temporary CSS (for displaying all slides initially) when the user
+// starts to view slides
+(function() {
+  var deleted = false;
+  slideshow.on('beforeShowSlide', function(slide) {
+    if (deleted) return;
+    var sheets = document.styleSheets, node;
+    for (var i = 0; i < sheets.length; i++) {
+      node = sheets[i].ownerNode;
+      if (node.dataset["target"] !== "print-only") continue;
+      node.parentNode.removeChild(node);
+    }
+    deleted = true;
+  });
+})();
+(function() {
+  "use strict"
+  // Replace <script> tags in slides area to make them executable
+  var scripts = document.querySelectorAll(
+    '.remark-slides-area .remark-slide-container script'
+  );
+  if (!scripts.length) return;
+  for (var i = 0; i < scripts.length; i++) {
+    var s = document.createElement('script');
+    var code = document.createTextNode(scripts[i].textContent);
+    s.appendChild(code);
+    var scriptAttrs = scripts[i].attributes;
+    for (var j = 0; j < scriptAttrs.length; j++) {
+      s.setAttribute(scriptAttrs[j].name, scriptAttrs[j].value);
+    }
+    scripts[i].parentElement.replaceChild(s, scripts[i]);
+  }
+})();
+(function() {
+  var links = document.getElementsByTagName('a');
+  for (var i = 0; i < links.length; i++) {
+    if (/^(https?:)?\/\//.test(links[i].getAttribute('href'))) {
+      links[i].target = '_blank';
+    }
+  }
+})();</script>
+
+<script>
+slideshow._releaseMath = function(el) {
+  var i, text, code, codes = el.getElementsByTagName('code');
+  for (i = 0; i < codes.length;) {
+    code = codes[i];
+    if (code.parentNode.tagName !== 'PRE' && code.childElementCount === 0) {
+      text = code.textContent;
+      if (/^\\\((.|\s)+\\\)$/.test(text) || /^\\\[(.|\s)+\\\]$/.test(text) ||
+          /^\$\$(.|\s)+\$\$$/.test(text) ||
+          /^\\begin\{([^}]+)\}(.|\s)+\\end\{[^}]+\}$/.test(text)) {
+        code.outerHTML = code.innerHTML;  // remove <code></code>
+        continue;
+      }
+    }
+    i++;
+  }
+};
+slideshow._releaseMath(document);
+</script>
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+(function () {
+  var script = document.createElement('script');
+  script.type = 'text/javascript';
+  script.src  = 'https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-MML-AM_CHTML';
+  if (location.protocol !== 'file:' && /^https?:/.test(script.src))
+    script.src  = script.src.replace(/^https?:/, '');
+  document.getElementsByTagName('head')[0].appendChild(script);
+})();
+</script>
+  </body>
+</html>

@@ -1,0 +1,360 @@
+---
+title: "Analyse  the strength of associations between binary or binomial distributed outcomes and exposure variables"
+#author: "Your name here"
+#date: "`r Sys.Date()`"
+output: xaringan::moon_reader
+params:
+  name1: "Alison" 
+  name2: "Allison"
+---
+class: top, left
+
+<!-- edit name1 and name2 in the YAML above -->
+
+```{r setup, echo=FALSE, warning=FALSE, message=FALSE}
+options(htmltools.dir.version = FALSE)
+knitr::opts_chunk$set(warning = FALSE, message = FALSE)
+library(tidyverse) # load tidyverse package
+library(babynames) # load babynames package
+#library(leaflet) # uncomment to use if you install
+```
+
+
+
+## Learning objective
+
+
+- Analyse  the strength of associations between binary or binomial distributed outcomes and exposure variables
+
+
+## Contents
+
+
+- Statistical model
+
+- Recognize when logistic regression can be used, 
+
+
+
+
+???
+sm = formal representation between variables
+use for prediction and explanation
+
+
+
+---
+class: top, center
+
+## What is regression?
+  
+--
+    
+  
+The process of fitting a line or a curve is called regression 
+    
+  
+--
+
+
+```{r echo=FALSE, message=FALSE, warning=FALSE, out.width="50%"}
+library(here)
+galton <- read_csv(here("data", "galton.csv"))
+attach(galton) 
+
+Unique.Fathers=numeric()
+Unique.Mothers=numeric()
+nunique=1 # number of unique families 
+Unique.Fathers[1] = Father[1]
+Unique.Mothers[1] = Mother[1]  
+ for(i in 2:length(Family))
+{   
+    if(Family[i] != Family[i-1]){
+      nunique=nunique+1
+    Unique.Fathers[nunique]=Father[i]
+    Unique.Mothers[nunique]=Mother[i]
+    }
+  }
+  
+#length(Unique.Fathers)
+#summary(Unique.Fathers)
+#sd(Unique.Fathers)
+#length(Unique.Mothers)
+#summary(Unique.Mothers)
+#sd(Unique.Mothers)
+ 
+Son = Height[Gender=="M"] 
+#length(Son)
+#summary(Son)
+#sd(Son)
+Daughter = Height[Gender=="F"]
+#length(Daughter)
+#summary(Daughter)
+#sd(Daughter)
+FatherS = Father[Gender=="M"]
+fit <- lm(Son ~ FatherS) # linear regression data in fit
+Predicted <- predict(fit)   # Get the predicted values
+FatherS.j <- jitter(FatherS, factor=5) 
+Son.j <- jitter(Son, factor=5)
+xlims=ylims=c(55,80)
+par(mfrow=c(1,1), mar=c(4,4,2,0), pty="s")  # square plot
+plot(FatherS.j, Son.j, xlim=xlims,ylim=ylims,cex=0.7,
+     xlab="X",ylab="Y" , col="gray68")
+lines(c(xlims[1],xlims[2]),c(xlims[1],xlims[2]),lty=2 )
+lines(Predicted~FatherS,lwd=2)
+
+```
+
+
+--
+  
+  
+The formal representation of a relationship is an __statistical model__
+    
+  
+--
+  
+$$y=a+bx_1+e_1$$
+
+  
+  
+--
+
+
+ 
+
+
+???
+
+
+-We use regression analysis to estimate relationships among variables
+    
+-In particular: the relationship between a dependent and 1 or more independent variables
+
+$$p(X)=\beta_0+\beta_1X$$
+
+
+
+---
+class: top, inverse
+
+
+
+.pull-left[
+
+Continuous variable
+
+```{r ,echo=FALSE}
+hist(FatherS.j, xlab="Y")
+```
+
+linear regression
+
+predict specific y value
+
+given specific x value
+
+
+]
+
+
+--
+
+
+.pull-right[
+
+Binary variable
+
+```{r echo=FALSE}
+#names(galton)
+#mean(Father)
+
+galtons <- galton
+#galtons %>%
+ # mutate(tall = 
+  #         ifelse(Father > 69.2,
+   #               "yes", "no"))
+
+galtons$y <- with(galtons, ifelse(Father > 69.2,
+                  "yes", "no"))
+#barplot(galtons$y)
+gf <- ggplot(galtons, aes(x = y)) +
+  geom_bar() + labs(x = "y") + theme_bw()
+gf
+
+```
+
+logistic regression
+
+predict probability y level
+
+given specific x value
+
+
+]
+
+--
+
+.pull-left[
+
+$$y_i=a+bx_i+e_i$$
+]
+
+--
+
+.pull-right[
+$$p(y_i)=a+bx_i$$
+]
+
+
+
+???
+
+- When do we use logistic regression?
+- dependent variable is dichotomous or binary
+- predicator (independent) variables can be continuous or categorical. They are related to the probability or odds of the outcome variable.
+
+
+
+
+
+
+
+
+
+
+  
+
+---
+
+.pull-left[
+
+$$p(y)=a+bx_i$$
+  
+```{r lin, echo=FALSE, message=FALSE, warning=FALSE}
+library(tidyverse)
+
+data(mtcars)
+dat <- subset(mtcars, select=c(mpg, am, vs))
+
+ggplot(dat, aes(x=mpg, y=vs)) + geom_point() + 
+  #stat_smooth(method="glm", method.args=list(family="binomial"), se=FALSE) +
+  #geom_line() #+
+  geom_smooth(method = lm, formula = y ~ x) + labs(x = "X", y = "Y") + theme_bw()
+
+```
+]
+
+--
+
+.pull-right[
+
+$$log[p/(1-p)]_i=a+bx_i$$
+```{r echo=FALSE, message=FALSE, warning=FALSE}
+data(mtcars)
+dat <- subset(mtcars, select=c(mpg, am, vs))
+ggplot(dat, aes(x=mpg, y=vs)) + geom_point() + 
+  stat_smooth(method="glm", method.args=list(family="binomial"), se=FALSE) +
+  labs(x = "X", y = "Y") + theme_bw()
+  #geom_line() #+
+  #geom_smooth(method = lm, formula = y ~ x) + labs(x = NULL, y = NULL)
+#http://wiki.cge.dtu.dk:10090/display/CWP/1.+Sequencing+projects%3A+getting+started
+#user: cge
+#password: cge_master
+#our* wiki :)
+
+```
+
+]
+
+
+--
+
+
+.pull-left[
+
+$$log[p/(1-p)]_i=a+bx_i$$
+
+]
+
+
+--
+
+
+.pull-right[
+
+$a$ = intercept
+
+$b$ = slope
+
+$x_i$ = specific $x$ values of the independent variable 
+
+]
+
+
+
+
+
+
+  
+???
+
+The problem with this approach is that when fitting a straight line for a binary dependent variable the probability $p(x)$ for some values of $X$ can go above 1 or below 0. See the following Figure. The probability of Y goes below zero to above one. 
+
+- Suppose that we are interested in the factors that influence whether a ESBL E.Coli is present or not in food samples. The outcome (response) variable is binary (0/1); no present or present. The predictor variables of interest are the origin of the food and the type of food.
+
+
+
+
+ 
+ 
+ 
+
+---
+class: top, left
+
+## Logistic function
+
+
+.pull-left[
+
+- to avoid this, we can use the logistic function to model 
+    
+  $p(X)$ 
+  
+]
+
+--
+
+.pull-right[
+
+
+$$\frac{p(X)}{1-p(X)}=e^{\beta_0+\beta_1X}$$
+
+]
+
+
+--
+
+
+.pull-left[
+
+
+$$\frac{p(X)}{1-p(X)}$$
+]
+
+
+--
+
+.pull-right[
+
+
+$$log(\frac{p(X)}1-p{X})=\beta_0+\beta_1X$$
+]
+
+
+--
+
+
+
+

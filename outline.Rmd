@@ -1,0 +1,223 @@
+---
+title: "Analyse  the strength of associations between binary or binomial distributed outcomes and exposure variables"
+#author: "David"
+#date: "19/2/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+### Goal
+
+
+- Recognize when logistic regression can be used, 
+
+    - dependent variable is dichotomous or binary
+    
+    - predicator (independent) variables can be continuous or categorical. They are related to the probability or odds of the outcome variable. 
+
+
+#### Example
+
+Suppose that we are interested in the factors that influence whether a ESBL E.Coli is present or not in food samples. The outcome (response) variable is binary (0/1); no present or present. The predictor variables of interest are the origin of the food and the type of food.
+
+
+
+
+
+### Topics
+
+
+- What is logistic regression?
+
+
+- Conducting logistic regression analysis
+
+
+- Interpret significance testing 
+
+- Appraise whether confounding or interactions are present 
+
+- Interpret logistic regression output 
+
+
+
+#### What is logistic regression
+    
+    - The process of fiting a line or a curve is called regression 
+    
+    - We use regression analysis to estimate relatioships among variables
+    
+    - In particular: the relationship between a dependent and 1 or more independent variables
+  
+    - The formal representation of a relationship is an __statistical model__
+    
+    - $$p(X)=\beta_0+\beta_1X$$
+  
+    - The problem with this approach is that when fiting a straight line for a binary dependent variable the probability $p(x)$ for some values of $X$ can go above 1 or below 0. See the following Figure. The probability of Y goes below zero to above one. 
+  
+  
+```{r lin, echo=FALSE, message=FALSE, warning=FALSE}
+library(tidyverse)
+
+data(mtcars)
+dat <- subset(mtcars, select=c(mpg, am, vs))
+
+ggplot(dat, aes(x=mpg, y=vs)) + geom_point() + 
+  #stat_smooth(method="glm", method.args=list(family="binomial"), se=FALSE) +
+  #geom_line() #+
+  geom_smooth(method = lm, formula = y ~ x) + labs(x = "X", y = "Y")
+```
+
+    - to avoid this, we can use the logistic function to model 
+    
+  $p(X)$ 
+  
+      as follows:
+  
+  
+  $$\frac{p(X)}{1-p(X)}=e^{\beta_0+\beta_1X}$$
+
+
+    - where 
+    
+  $$\frac{p(X)}{1-p(X)}$$ are the odds ratio
+    
+    
+    - if we bring the log we get
+    
+    
+  $$log(\frac{p(X)}1-p{X})=\beta_0+\beta_1X$$
+    
+    
+And we have our probability between 0 and 1.
+
+
+    
+```{r echo=FALSE, message=FALSE, warning=FALSE}
+data(mtcars)
+dat <- subset(mtcars, select=c(mpg, am, vs))
+ggplot(dat, aes(x=mpg, y=vs)) + geom_point() + 
+  stat_smooth(method="glm", method.args=list(family="binomial"), se=FALSE) +
+  labs(x = "X", y = "Y")
+  #geom_line() #+
+  #geom_smooth(method = lm, formula = y ~ x) + labs(x = NULL, y = NULL)
+#http://wiki.cge.dtu.dk:10090/display/CWP/1.+Sequencing+projects%3A+getting+started
+#user: cge
+#password: cge_master
+#our* wiki :)
+
+```
+
+    - a logistic regression models the probability that its outcome belongs to a certain category
+
+- Model building strategy: 
+  
+        a) univariate analysis 
+
+
+        b) multivariate analysis
+
+  
+        c) refitting the model
+
+
+        d) goodness of fit
+
+
+### The need for logistic regression
+
+
+### Antibiotics
+
+```{r}
+library(tidyverse)
+ library(AMR)
+library(help = "AMR")
+data("antibiotics")
+an <- antibiotics %>%
+  select(group, name, ab, atc_group1, atc_group2)
+pen <- an%>%
+  filter(group == "penicillins")
+unique(an$group)
+```
+
+```{r}
+library(here)
+frm <- read_csv(here("data", "farmN.csv"))
+names(frm)
+unique(frm$ast)
+frm$ast <- with(frm, recode(ast, Sensitive = "0", Resistance = "1"))
+unique(frm$ast)
+unique(frm$btype)
+frm$btype <- with(frm, recode(btype, Layers = "layers"))
+unique(frm$btype)
+lr <- glm(as.factor(ast) ~ btype, data = frm, family = binomial)
+summary(lr) # significant
+unique(frm$ftype)
+frm$ftype <- with(frm, recode(ftype, "Semi-commercial" = "small", Backyard = "small", 
+                               "Small scale" = "small", "Large scale" = "large", "Large Scale" = "large",
+                               "Medium scale" = "large"))
+lr <- glm(as.factor(ast) ~ ftype, data = frm, family = binomial)
+summary(lr)
+unique(frm$loc)
+lr <- glm(as.factor(ast) ~ loc, data = frm, family = binomial)
+summary(lr)
+lr <- glm(as.factor(ast) ~ numB, data = frm, family = binomial)
+summary(lr)
+lr <- glm(as.factor(ast) ~ usage, data = frm, family = binomial)
+summary(lr)
+lr <- glm(as.factor(ast) ~ period, data = frm, family = binomial)
+summary(lr)
+
+
+lr <- glm(as.factor(ast) ~ btype + ftype + numB + usage, data = frm, family = binomial)
+summary(lr)
+
+
+lr <- glm(as.factor(ast) ~ btype + ftype + numB, data = frm, family = binomial)
+summary(lr)
+
+
+lr <- glm(as.factor(ast) ~ btype + numB, data = frm, family = binomial)
+summary(lr)
+
+exp(-2.082)
+library(rms)
+ddist <- with(frm, datadist(btype, numB, usage, ftype))
+options(datadist='ddist')
+b <- lrm(as.factor(ast) ~ btype + ftype + numB + usage, data = frm, x=TRUE, y=TRUE)
+fastbw(b)
+
+
+nig <- read_csv(here("data", "nig2.csv"))
+
+names(nig)
+
+names(nig)[5] <- "ageg"
+unique(nig$ageg)
+nig$ageg <- with(nig, recode(ageg, "Layers" = "layers", "Broiler Starter" = "broiler", "Broiler Finisher" = "broiler", "Spent Layers" = "layers",  "Growers" = "broiler", "Chicks" = "broiler"))
+
+
+ft <- glm(as.factor(Molecular) ~  Livestock, data = nig, family = binomial)
+summary(ft)
+ft <- glm(as.factor(Molecular) ~  Flock_Size, data = nig, family = binomial)
+summary(ft)
+ft <- glm(as.factor(Molecular) ~  Production_System, data = nig, family = binomial)
+summary(ft)
+ft <- glm(as.factor(Molecular) ~  Waste_management, data = nig, family = binomial)
+summary(ft)
+ft <- glm(as.factor(Molecular) ~  ageg, data = nig, family = binomial)
+summary(ft)
+ft <- glm(as.factor(Molecular) ~  Foot_dip, data = nig, family = binomial)
+summary(ft)
+bl <- lrm(as.factor(Molecular) ~ Foot_dip + Waste_management + Production_System + Livestock, data = nig)#, x=TRUE, y=TRUE)
+fastbw(bl)
+```
+
+
+
+
+
