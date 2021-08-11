@@ -1,0 +1,2842 @@
+pathogen	drug_group	state_id	proportion_nonsusceptible
+A. baumannii	beta_lactam	stateCCZ	0.541734
+A. baumannii	beta_lactam	stateCUX	0.215
+A. baumannii	beta_lactam	stateCYL	0.846579
+A. baumannii	beta_lactam	stateEPB	0.476765
+A. baumannii	beta_lactam	stateERZ	0.2035
+A. baumannii	beta_lactam	stateGKW	0.11145
+A. baumannii	beta_lactam	stateIJE	0.238039
+A. baumannii	beta_lactam	stateIWK	0.541028
+A. baumannii	beta_lactam	stateJBF	0.04
+A. baumannii	beta_lactam	stateKFE	0.376103
+A. baumannii	beta_lactam	stateLJC	0.335321
+A. baumannii	beta_lactam	stateLWR	0.238372
+A. baumannii	beta_lactam	stateMMO	0.48587
+A. baumannii	beta_lactam	stateNWF	0.182927
+A. baumannii	beta_lactam	stateOUP	0.27453
+A. baumannii	beta_lactam	statePIO	0.062
+A. baumannii	beta_lactam	statePJJ	0.776699
+A. baumannii	beta_lactam	stateRHV	0.4678
+A. baumannii	beta_lactam	stateSHP	0.165451
+A. baumannii	beta_lactam	stateSLZ	0.453091
+A. baumannii	beta_lactam	stateSNB	0.172364
+A. baumannii	beta_lactam	stateSTP	0.14
+A. baumannii	beta_lactam	stateTMR	0.250964
+A. baumannii	beta_lactam	stateTOE	0.22
+A. baumannii	beta_lactam	stateUEQ	0.135
+A. baumannii	beta_lactam	stateUMX	0.360841
+A. baumannii	beta_lactam	stateVIE	0.149268
+A. baumannii	beta_lactam	stateVUS	0.02
+A. baumannii	beta_lactam	stateWPV	0.436512
+A. baumannii	beta_lactam	stateXYX	0.603389
+A. baumannii	beta_lactam	stateYJD	0.495
+A. baumannii	beta_lactam	stateYUW	0.19
+A. baumannii	beta_lactam	stateYVE	0.420143
+A. baumannii	beta_lactam	stateZWS	0.488344
+A. baumannii	cephalosporin	stateCCZ	0.589445
+A. baumannii	cephalosporin	stateCUX	0.2
+A. baumannii	cephalosporin	stateCYL	0.563316
+A. baumannii	cephalosporin	stateELN	0.214416
+A. baumannii	cephalosporin	stateEPB	0.614355
+A. baumannii	cephalosporin	stateERZ	0.498125
+A. baumannii	cephalosporin	stateGKW	0.413317
+A. baumannii	cephalosporin	stateIJE	0.44355
+A. baumannii	cephalosporin	stateIWK	0.678364
+A. baumannii	cephalosporin	stateJBF	0.272903
+A. baumannii	cephalosporin	stateKFE	0.369488
+A. baumannii	cephalosporin	stateLJC	0.546022
+A. baumannii	cephalosporin	stateLMH	0.175
+A. baumannii	cephalosporin	stateLWR	0.604031
+A. baumannii	cephalosporin	stateMMO	0.634336
+A. baumannii	cephalosporin	stateNWF	0.524939
+A. baumannii	cephalosporin	stateOUP	0.421768
+A. baumannii	cephalosporin	statePIO	0.032
+A. baumannii	cephalosporin	statePJJ	0.683429
+A. baumannii	cephalosporin	stateQES	0.99
+A. baumannii	cephalosporin	stateRHV	0.537633
+A. baumannii	cephalosporin	stateSHP	0.398733
+A. baumannii	cephalosporin	stateSLZ	0.535581
+A. baumannii	cephalosporin	stateSNB	0.33513
+A. baumannii	cephalosporin	stateSTP	0.8
+A. baumannii	cephalosporin	stateTMR	0.3484
+A. baumannii	cephalosporin	stateTOE	0.236667
+A. baumannii	cephalosporin	stateUEQ	0.55
+A. baumannii	cephalosporin	stateUMX	0.363283
+A. baumannii	cephalosporin	stateVIE	0.36907
+A. baumannii	cephalosporin	stateVUS	0.33
+A. baumannii	cephalosporin	stateWPV	0.619502
+A. baumannii	cephalosporin	stateXYX	0.457095
+A. baumannii	cephalosporin	stateYJD	0.68
+A. baumannii	cephalosporin	stateYUW	0.373019
+A. baumannii	cephalosporin	stateYVE	0.5302
+A. baumannii	cephalosporin	stateZWS	0.621051
+A. baumannii	quinolone	stateCCZ	0.490044
+A. baumannii	quinolone	stateCUX	0.24
+A. baumannii	quinolone	stateCYL	0.389447
+A. baumannii	quinolone	stateELN	0.047955
+A. baumannii	quinolone	stateEPB	0.410122
+A. baumannii	quinolone	stateERZ	0.017333
+A. baumannii	quinolone	stateEVG	0.082245
+A. baumannii	quinolone	stateGKW	0.1222
+A. baumannii	quinolone	stateIJE	0.282465
+A. baumannii	quinolone	stateIWK	0.686822
+A. baumannii	quinolone	stateJBF	0.060645
+A. baumannii	quinolone	stateKFE	0.273787
+A. baumannii	quinolone	stateLJC	0.398933
+A. baumannii	quinolone	stateLMH	0.09
+A. baumannii	quinolone	stateLWR	0.559535
+A. baumannii	quinolone	stateMMO	0.441399
+A. baumannii	quinolone	stateNWF	0.562317
+A. baumannii	quinolone	stateOUP	0.366863
+A. baumannii	quinolone	statePIO	0.024
+A. baumannii	quinolone	statePJJ	0.696352
+A. baumannii	quinolone	stateQES	0.8
+A. baumannii	quinolone	stateRHV	0.538767
+A. baumannii	quinolone	stateSHP	0.225387
+A. baumannii	quinolone	stateSLZ	0.384235
+A. baumannii	quinolone	stateSNB	0.393739
+A. baumannii	quinolone	stateSTP	0.59
+A. baumannii	quinolone	stateTMR	0.183467
+A. baumannii	quinolone	stateTOE	0.1
+A. baumannii	quinolone	stateUEQ	0.2
+A. baumannii	quinolone	stateUMX	0.278505
+A. baumannii	quinolone	stateVIE	0.411786
+A. baumannii	quinolone	stateVUS	0.02
+A. baumannii	quinolone	stateWPV	0.524471
+A. baumannii	quinolone	stateXYX	0.309578
+A. baumannii	quinolone	stateYJD	0.05
+A. baumannii	quinolone	stateYUW	0.44967
+A. baumannii	quinolone	stateYVE	0.439068
+A. baumannii	quinolone	stateZWS	0.552954
+A. baumannii	tmpsmx	stateCCZ	0.518231
+A. baumannii	tmpsmx	stateCUX	0.29
+A. baumannii	tmpsmx	stateCYL	0.825094
+A. baumannii	tmpsmx	stateELN	0.106497
+A. baumannii	tmpsmx	stateEPB	0.411849
+A. baumannii	tmpsmx	stateERZ	0.159333
+A. baumannii	tmpsmx	stateEVG	0.121837
+A. baumannii	tmpsmx	stateGKW	0.09905
+A. baumannii	tmpsmx	stateIJE	0.257115
+A. baumannii	tmpsmx	stateIWK	0.692897
+A. baumannii	tmpsmx	stateJBF	0.096452
+A. baumannii	tmpsmx	stateKFE	0.365806
+A. baumannii	tmpsmx	stateLJC	0.266
+A. baumannii	tmpsmx	stateLMH	0.09
+A. baumannii	tmpsmx	stateLWR	0.486977
+A. baumannii	tmpsmx	stateMMO	0.435135
+A. baumannii	tmpsmx	stateNWF	0.430244
+A. baumannii	tmpsmx	stateOUP	0.227059
+A. baumannii	tmpsmx	statePIO	0.078
+A. baumannii	tmpsmx	statePJJ	0.578443
+A. baumannii	tmpsmx	stateQES	0.4
+A. baumannii	tmpsmx	stateRHV	0.252333
+A. baumannii	tmpsmx	stateSHP	0.21
+A. baumannii	tmpsmx	stateSLZ	0.34315
+A. baumannii	tmpsmx	stateSNB	0.279217
+A. baumannii	tmpsmx	stateTMR	0.19428
+A. baumannii	tmpsmx	stateTOE	0.17
+A. baumannii	tmpsmx	stateUEQ	0.19
+A. baumannii	tmpsmx	stateUMX	0.257935
+A. baumannii	tmpsmx	stateVIE	0.317857
+A. baumannii	tmpsmx	stateVUS	0.1
+A. baumannii	tmpsmx	stateWPV	0.643367
+A. baumannii	tmpsmx	stateXYX	0.327081
+A. baumannii	tmpsmx	stateYJD	0.05
+A. baumannii	tmpsmx	stateYUW	0.385283
+A. baumannii	tmpsmx	stateYVE	0.508932
+A. baumannii	tmpsmx	stateZWS	0.630675
+C. freundii	beta_lactam	stateBFU	0.540063
+C. freundii	beta_lactam	stateCCZ	0.482542
+C. freundii	beta_lactam	stateCUX	0.2
+C. freundii	beta_lactam	stateCWD	0.17
+C. freundii	beta_lactam	stateCYL	0.508743
+C. freundii	beta_lactam	stateELN	0.024762
+C. freundii	beta_lactam	stateEPB	0.542893
+C. freundii	beta_lactam	stateERZ	0.584382
+C. freundii	beta_lactam	stateEVG	0
+C. freundii	beta_lactam	stateGKW	0.330136
+C. freundii	beta_lactam	stateIJE	0.421152
+C. freundii	beta_lactam	stateIWK	0.176071
+C. freundii	beta_lactam	stateJBF	0.111943
+C. freundii	beta_lactam	stateKFE	0.745313
+C. freundii	beta_lactam	stateLJC	0.336685
+C. freundii	beta_lactam	stateLMH	0.111649
+C. freundii	beta_lactam	stateLWR	0.211958
+C. freundii	beta_lactam	stateNWF	0.017619
+C. freundii	beta_lactam	stateOUP	0.178152
+C. freundii	beta_lactam	statePIO	0.101541
+C. freundii	beta_lactam	statePJJ	0.174286
+C. freundii	beta_lactam	stateRHV	0.54
+C. freundii	beta_lactam	stateSHP	0.140742
+C. freundii	beta_lactam	stateSLZ	0.471036
+C. freundii	beta_lactam	stateSNB	0.371232
+C. freundii	beta_lactam	stateTMR	0.418389
+C. freundii	beta_lactam	stateTOE	0.085
+C. freundii	beta_lactam	stateUEQ	0.09
+C. freundii	beta_lactam	stateUMX	0.330013
+C. freundii	beta_lactam	stateVIE	0.21877
+C. freundii	beta_lactam	stateWFM	0.085
+C. freundii	beta_lactam	stateWPV	0.505476
+C. freundii	beta_lactam	stateXYX	0.68177
+C. freundii	beta_lactam	stateYJD	0.673333
+C. freundii	beta_lactam	stateYUW	0.046303
+C. freundii	beta_lactam	stateYVE	0.284892
+C. freundii	beta_lactam	stateZWS	0.602856
+C. freundii	cephalosporin	stateBFU	0.045759
+C. freundii	cephalosporin	stateCCZ	0.297989
+C. freundii	cephalosporin	stateCUX	0.128701
+C. freundii	cephalosporin	stateCWD	0.133333
+C. freundii	cephalosporin	stateCYL	0.256788
+C. freundii	cephalosporin	stateELN	0.052619
+C. freundii	cephalosporin	stateEPB	0.31388
+C. freundii	cephalosporin	stateERZ	0.331811
+C. freundii	cephalosporin	stateEVG	0
+C. freundii	cephalosporin	stateGKW	0.213903
+C. freundii	cephalosporin	stateIJE	0.291271
+C. freundii	cephalosporin	stateIWK	0.325857
+C. freundii	cephalosporin	stateJBF	0.207416
+C. freundii	cephalosporin	stateKFE	0.445838
+C. freundii	cephalosporin	stateLJC	0.153455
+C. freundii	cephalosporin	stateLMH	0.099692
+C. freundii	cephalosporin	stateLWR	0.148675
+C. freundii	cephalosporin	stateMMO	0.424241
+C. freundii	cephalosporin	stateNWF	0.142619
+C. freundii	cephalosporin	stateOUP	0.153533
+C. freundii	cephalosporin	statePIO	0.1875
+C. freundii	cephalosporin	statePJJ	0.147619
+C. freundii	cephalosporin	stateRHV	0.377056
+C. freundii	cephalosporin	stateSHP	0.20085
+C. freundii	cephalosporin	stateSLZ	0.354041
+C. freundii	cephalosporin	stateSNB	0.109832
+C. freundii	cephalosporin	stateTMR	0.210959
+C. freundii	cephalosporin	stateTOE	0.08
+C. freundii	cephalosporin	stateUEQ	0.09
+C. freundii	cephalosporin	stateUMX	0.313231
+C. freundii	cephalosporin	stateVIE	0.285932
+C. freundii	cephalosporin	stateVUS	0.105969
+C. freundii	cephalosporin	stateWFM	0.055
+C. freundii	cephalosporin	stateWPV	0.339192
+C. freundii	cephalosporin	stateXYX	0.248642
+C. freundii	cephalosporin	stateYJD	0.343333
+C. freundii	cephalosporin	stateYUW	0.10103
+C. freundii	cephalosporin	stateYVE	0.151413
+C. freundii	cephalosporin	stateZWS	0.38336
+C. freundii	nitrofurantoin	stateBFU	0.077089
+C. freundii	nitrofurantoin	stateCCZ	0.088179
+C. freundii	nitrofurantoin	stateCUX	0.055844
+C. freundii	nitrofurantoin	stateCYL	0.038101
+C. freundii	nitrofurantoin	stateELN	0.034762
+C. freundii	nitrofurantoin	stateEPB	0.075888
+C. freundii	nitrofurantoin	stateERZ	0.327918
+C. freundii	nitrofurantoin	stateEVG	0
+C. freundii	nitrofurantoin	stateGKW	0.053437
+C. freundii	nitrofurantoin	stateIJE	0.063632
+C. freundii	nitrofurantoin	stateIWK	0.038088
+C. freundii	nitrofurantoin	stateJBF	0.079516
+C. freundii	nitrofurantoin	stateKFE	0.066831
+C. freundii	nitrofurantoin	stateLJC	0.032183
+C. freundii	nitrofurantoin	stateLMH	0.148269
+C. freundii	nitrofurantoin	stateLWR	0.081566
+C. freundii	nitrofurantoin	stateMMO	0.16186
+C. freundii	nitrofurantoin	stateNWF	0.099155
+C. freundii	nitrofurantoin	stateOUP	0.103641
+C. freundii	nitrofurantoin	statePIO	0.03799
+C. freundii	nitrofurantoin	statePJJ	0.113286
+C. freundii	nitrofurantoin	stateRHV	0.16
+C. freundii	nitrofurantoin	stateSHP	0.112087
+C. freundii	nitrofurantoin	stateSLZ	0.08
+C. freundii	nitrofurantoin	stateSNB	0.088
+C. freundii	nitrofurantoin	stateSTP	0.066951
+C. freundii	nitrofurantoin	stateTMR	0.085544
+C. freundii	nitrofurantoin	stateTOE	0.06
+C. freundii	nitrofurantoin	stateUMX	0.093419
+C. freundii	nitrofurantoin	stateVIE	0.090643
+C. freundii	nitrofurantoin	stateVUS	0.132461
+C. freundii	nitrofurantoin	stateWFM	0.09
+C. freundii	nitrofurantoin	stateWPV	0.125986
+C. freundii	nitrofurantoin	stateXYX	0.067269
+C. freundii	nitrofurantoin	stateYJD	0.15
+C. freundii	nitrofurantoin	stateYUW	0.059212
+C. freundii	nitrofurantoin	stateYVE	0.057444
+C. freundii	nitrofurantoin	stateZWS	0.133208
+C. freundii	quinolone	stateBFU	0.012911
+C. freundii	quinolone	stateCCZ	0.074109
+C. freundii	quinolone	stateCUX	0.031234
+C. freundii	quinolone	stateCWD	0.04
+C. freundii	quinolone	stateCYL	0.101732
+C. freundii	quinolone	stateELN	0.05619
+C. freundii	quinolone	stateEPB	0.113882
+C. freundii	quinolone	stateERZ	0.04987
+C. freundii	quinolone	stateEVG	0.014082
+C. freundii	quinolone	stateGKW	0.057442
+C. freundii	quinolone	stateIJE	0.074505
+C. freundii	quinolone	stateIWK	0.033286
+C. freundii	quinolone	stateJBF	0.098769
+C. freundii	quinolone	stateKFE	0.055821
+C. freundii	quinolone	stateLJC	0.049185
+C. freundii	quinolone	stateLMH	0.075959
+C. freundii	quinolone	stateLWR	0.086928
+C. freundii	quinolone	stateMMO	0.076444
+C. freundii	quinolone	stateNWF	0.174476
+C. freundii	quinolone	stateOUP	0.093203
+C. freundii	quinolone	statePIO	0.025959
+C. freundii	quinolone	statePJJ	0.201143
+C. freundii	quinolone	stateRHV	0.166371
+C. freundii	quinolone	stateSHP	0.081254
+C. freundii	quinolone	stateSLZ	0.065648
+C. freundii	quinolone	stateSNB	0.053039
+C. freundii	quinolone	stateSTP	0.037787
+C. freundii	quinolone	stateTMR	0.062667
+C. freundii	quinolone	stateTOE	0.08
+C. freundii	quinolone	stateUEQ	0.08
+C. freundii	quinolone	stateUMX	0.099795
+C. freundii	quinolone	stateVIE	0.04297
+C. freundii	quinolone	stateVUS	0.052984
+C. freundii	quinolone	stateWFM	0.08
+C. freundii	quinolone	stateWPV	0.157981
+C. freundii	quinolone	stateXYX	0.051921
+C. freundii	quinolone	stateYJD	0.08
+C. freundii	quinolone	stateYUW	0.081576
+C. freundii	quinolone	stateYVE	0.070315
+C. freundii	quinolone	stateZWS	0.146445
+C. freundii	tmpsmx	stateBFU	0.12443
+C. freundii	tmpsmx	stateCCZ	0.145512
+C. freundii	tmpsmx	stateCUX	0.148312
+C. freundii	tmpsmx	stateCYL	0.117374
+C. freundii	tmpsmx	stateELN	0.119524
+C. freundii	tmpsmx	stateEPB	0.250984
+C. freundii	tmpsmx	stateERZ	0.155683
+C. freundii	tmpsmx	stateEVG	0.03
+C. freundii	tmpsmx	stateGKW	0.126532
+C. freundii	tmpsmx	stateIJE	0.130459
+C. freundii	tmpsmx	stateIWK	0.099714
+C. freundii	tmpsmx	stateJBF	0.176978
+C. freundii	tmpsmx	stateKFE	0.196431
+C. freundii	tmpsmx	stateLJC	0.115843
+C. freundii	tmpsmx	stateLMH	0.229381
+C. freundii	tmpsmx	stateLWR	0.154639
+C. freundii	tmpsmx	stateMMO	0
+C. freundii	tmpsmx	stateNWF	0.38019
+C. freundii	tmpsmx	stateOUP	0.187156
+C. freundii	tmpsmx	statePIO	0.130137
+C. freundii	tmpsmx	statePJJ	0.157571
+C. freundii	tmpsmx	stateRHV	0.206452
+C. freundii	tmpsmx	stateSHP	0.154063
+C. freundii	tmpsmx	stateSLZ	0.170933
+C. freundii	tmpsmx	stateSNB	0.116667
+C. freundii	tmpsmx	stateSTP	0.099268
+C. freundii	tmpsmx	stateTMR	0.154916
+C. freundii	tmpsmx	stateTOE	0.16
+C. freundii	tmpsmx	stateUEQ	0.1
+C. freundii	tmpsmx	stateUMX	0.227041
+C. freundii	tmpsmx	stateVIE	0.149671
+C. freundii	tmpsmx	stateVUS	0.142984
+C. freundii	tmpsmx	stateWFM	0.18
+C. freundii	tmpsmx	stateWPV	0.176683
+C. freundii	tmpsmx	stateXYX	0.158522
+C. freundii	tmpsmx	stateYJD	0.15
+C. freundii	tmpsmx	stateYUW	0.171576
+C. freundii	tmpsmx	stateYVE	0.136738
+C. freundii	tmpsmx	stateZWS	0.186126
+CoNS	beta_lactam	stateBFU	0.381181
+CoNS	beta_lactam	stateCCZ	0.652454
+CoNS	beta_lactam	stateCUX	0.641884
+CoNS	beta_lactam	stateCWD	0.785
+CoNS	beta_lactam	stateCYL	0.910499
+CoNS	beta_lactam	stateELN	0.609556
+CoNS	beta_lactam	stateEPB	0.710172
+CoNS	beta_lactam	stateERZ	0.391333
+CoNS	beta_lactam	stateEVG	0.520345
+CoNS	beta_lactam	stateGKW	0.621603
+CoNS	beta_lactam	stateHQX	0.683077
+CoNS	beta_lactam	stateIJE	0.637892
+CoNS	beta_lactam	stateIWK	0.596179
+CoNS	beta_lactam	stateJBF	0.657641
+CoNS	beta_lactam	stateKFE	0.719929
+CoNS	beta_lactam	stateLJC	0.673791
+CoNS	beta_lactam	stateLMH	0.59211
+CoNS	beta_lactam	stateLWR	0.534641
+CoNS	beta_lactam	stateMMO	0.760263
+CoNS	beta_lactam	stateNWF	0.728878
+CoNS	beta_lactam	stateOUP	0.544319
+CoNS	beta_lactam	statePIO	0.582733
+CoNS	beta_lactam	statePJJ	0.656053
+CoNS	beta_lactam	stateQES	0.78
+CoNS	beta_lactam	stateRHV	0.722
+CoNS	beta_lactam	stateSHP	0.661657
+CoNS	beta_lactam	stateSLZ	0.711511
+CoNS	beta_lactam	stateSNB	0.386635
+CoNS	beta_lactam	stateSTP	0.713397
+CoNS	beta_lactam	stateTGK	0.35
+CoNS	beta_lactam	stateTMR	0.806572
+CoNS	beta_lactam	stateTOE	0.847683
+CoNS	beta_lactam	stateUEQ	0.53
+CoNS	beta_lactam	stateUMX	0.671985
+CoNS	beta_lactam	stateVIE	0.699299
+CoNS	beta_lactam	stateVUS	0.44848
+CoNS	beta_lactam	stateWPV	0.76557
+CoNS	beta_lactam	stateXYX	0.688529
+CoNS	beta_lactam	stateYJD	0.585
+CoNS	beta_lactam	stateYUW	0.757562
+CoNS	beta_lactam	stateYVE	0.684029
+CoNS	beta_lactam	stateZWS	0.716421
+CoNS	cephalosporin	stateCCZ	0.554745
+CoNS	cephalosporin	stateCUX	0.506255
+CoNS	cephalosporin	stateCYL	0.653191
+CoNS	cephalosporin	stateELN	0.38
+CoNS	cephalosporin	stateEPB	0.738333
+CoNS	cephalosporin	stateEVG	0.520345
+CoNS	cephalosporin	stateGKW	0.68
+CoNS	cephalosporin	stateIJE	0.529718
+CoNS	cephalosporin	stateIWK	0.602839
+CoNS	cephalosporin	stateJBF	0.62736
+CoNS	cephalosporin	stateKFE	0.476966
+CoNS	cephalosporin	stateLJC	0.58527
+CoNS	cephalosporin	stateLMH	0.558147
+CoNS	cephalosporin	stateLWR	0.494438
+CoNS	cephalosporin	stateMMO	0.625712
+CoNS	cephalosporin	stateNWF	0.561332
+CoNS	cephalosporin	stateOUP	0.459269
+CoNS	cephalosporin	statePIO	0.524169
+CoNS	cephalosporin	statePJJ	0.56003
+CoNS	cephalosporin	stateQES	0.78
+CoNS	cephalosporin	stateRHV	0.59
+CoNS	cephalosporin	stateSHP	0.653615
+CoNS	cephalosporin	stateSNB	0.300865
+CoNS	cephalosporin	stateSTP	0.467662
+CoNS	cephalosporin	stateTGK	0.35
+CoNS	cephalosporin	stateTMR	0.4
+CoNS	cephalosporin	stateTOE	0.22
+CoNS	cephalosporin	stateUMX	0.546717
+CoNS	cephalosporin	stateVIE	0.352032
+CoNS	cephalosporin	stateWPV	0.687114
+CoNS	cephalosporin	stateXYX	0.630718
+CoNS	cephalosporin	stateYUW	0.72
+CoNS	cephalosporin	stateYVE	0.635241
+CoNS	cephalosporin	stateZWS	0.481279
+CoNS	macrolide	stateBFU	0.473965
+CoNS	macrolide	stateCCZ	0.631972
+CoNS	macrolide	stateCUX	0.661397
+CoNS	macrolide	stateCWD	0.65
+CoNS	macrolide	stateELN	0.510533
+CoNS	macrolide	stateEPB	0.673731
+CoNS	macrolide	stateERZ	0.350167
+CoNS	macrolide	stateEVG	0.612222
+CoNS	macrolide	stateGKW	0.633948
+CoNS	macrolide	stateHQX	0.68
+CoNS	macrolide	stateIJE	0.687857
+CoNS	macrolide	stateIWK	0.59454
+CoNS	macrolide	stateJBF	0.587644
+CoNS	macrolide	stateKFE	0.523111
+CoNS	macrolide	stateLJC	0.671545
+CoNS	macrolide	stateLMH	0.660874
+CoNS	macrolide	stateLWR	0.546688
+CoNS	macrolide	stateMMO	0.641463
+CoNS	macrolide	stateNWF	0.632387
+CoNS	macrolide	stateOUP	0.621991
+CoNS	macrolide	statePIO	0.617767
+CoNS	macrolide	statePJJ	0.597683
+CoNS	macrolide	stateQES	0.78
+CoNS	macrolide	stateRHV	0.696105
+CoNS	macrolide	stateSHP	0.578545
+CoNS	macrolide	stateSLZ	0.781579
+CoNS	macrolide	stateSNB	0.56828
+CoNS	macrolide	stateSTP	0.60094
+CoNS	macrolide	stateTGK	0.64
+CoNS	macrolide	stateTMR	0.630191
+CoNS	macrolide	stateTOE	0.714878
+CoNS	macrolide	stateUEQ	0.62
+CoNS	macrolide	stateUMX	0.701403
+CoNS	macrolide	stateVIE	0.631378
+CoNS	macrolide	stateVUS	0.49384
+CoNS	macrolide	stateWPV	0.726981
+CoNS	macrolide	stateXYX	0.673163
+CoNS	macrolide	stateYUW	0.705543
+CoNS	macrolide	stateYVE	0.634321
+CoNS	macrolide	stateZWS	0.678723
+CoNS	nitrofurantoin	stateBFU	0.022733
+CoNS	nitrofurantoin	stateCCZ	0.034962
+CoNS	nitrofurantoin	stateCUX	0.003406
+CoNS	nitrofurantoin	stateCWD	0
+CoNS	nitrofurantoin	stateCYL	0.003556
+CoNS	nitrofurantoin	stateELN	0
+CoNS	nitrofurantoin	stateEPB	0.005449
+CoNS	nitrofurantoin	stateEVG	0.03
+CoNS	nitrofurantoin	stateGKW	0.003235
+CoNS	nitrofurantoin	stateHQX	0.00915
+CoNS	nitrofurantoin	stateIJE	0.03
+CoNS	nitrofurantoin	stateIWK	0.024729
+CoNS	nitrofurantoin	stateJBF	0.002432
+CoNS	nitrofurantoin	stateKFE	0.030325
+CoNS	nitrofurantoin	stateLJC	0.014824
+CoNS	nitrofurantoin	stateLMH	0
+CoNS	nitrofurantoin	stateLWR	0.010375
+CoNS	nitrofurantoin	stateMMO	0.017638
+CoNS	nitrofurantoin	stateNWF	0.024553
+CoNS	nitrofurantoin	stateOUP	0.014295
+CoNS	nitrofurantoin	statePIO	0.009669
+CoNS	nitrofurantoin	statePJJ	0.018722
+CoNS	nitrofurantoin	stateQES	0
+CoNS	nitrofurantoin	stateSHP	0.013481
+CoNS	nitrofurantoin	stateSLZ	0
+CoNS	nitrofurantoin	stateSNB	0.06471
+CoNS	nitrofurantoin	stateSTP	0
+CoNS	nitrofurantoin	stateTGK	0
+CoNS	nitrofurantoin	stateTMR	0.011814
+CoNS	nitrofurantoin	stateTOE	0.009632
+CoNS	nitrofurantoin	stateUMX	0.010944
+CoNS	nitrofurantoin	stateVIE	0.008367
+CoNS	nitrofurantoin	stateVUS	0
+CoNS	nitrofurantoin	stateWPV	0.007372
+CoNS	nitrofurantoin	stateXYX	0.007802
+CoNS	nitrofurantoin	stateYJD	0
+CoNS	nitrofurantoin	stateYUW	0.009351
+CoNS	nitrofurantoin	stateYVE	0.05485
+CoNS	nitrofurantoin	stateZWS	0.021668
+CoNS	quinolone	stateBFU	0.355371
+CoNS	quinolone	stateCCZ	0.62749
+CoNS	quinolone	stateCUX	0.394578
+CoNS	quinolone	stateCYL	0.4324
+CoNS	quinolone	stateELN	0.154734
+CoNS	quinolone	stateEPB	0.471738
+CoNS	quinolone	stateGKW	0.392748
+CoNS	quinolone	stateHQX	0.475
+CoNS	quinolone	stateIJE	0.329166
+CoNS	quinolone	stateIWK	0.373569
+CoNS	quinolone	stateJBF	0.465634
+CoNS	quinolone	stateKFE	0.292335
+CoNS	quinolone	stateLJC	0.454692
+CoNS	quinolone	stateLMH	0.3
+CoNS	quinolone	stateLWR	0.313708
+CoNS	quinolone	stateMMO	0.504189
+CoNS	quinolone	stateNWF	0.55304
+CoNS	quinolone	stateOUP	0.392154
+CoNS	quinolone	statePIO	0.526221
+CoNS	quinolone	statePJJ	0.144027
+CoNS	quinolone	stateRHV	0.479263
+CoNS	quinolone	stateSHP	0.388749
+CoNS	quinolone	stateSLZ	0.553516
+CoNS	quinolone	stateSNB	0.154027
+CoNS	quinolone	stateSTP	0.362459
+CoNS	quinolone	stateTGK	0.34
+CoNS	quinolone	stateTMR	0.422726
+CoNS	quinolone	stateTOE	0.462927
+CoNS	quinolone	stateUMX	0.441838
+CoNS	quinolone	stateVIE	0.394618
+CoNS	quinolone	stateVUS	0.463119
+CoNS	quinolone	stateWPV	0.655081
+CoNS	quinolone	stateXYX	0.381498
+CoNS	quinolone	stateYJD	0.09
+CoNS	quinolone	stateYUW	0.570709
+CoNS	quinolone	stateYVE	0.487973
+CoNS	quinolone	stateZWS	0.571549
+CoNS	tetracycline	stateBFU	0.14689
+CoNS	tetracycline	stateCCZ	0.147993
+CoNS	tetracycline	stateCUX	0.18391
+CoNS	tetracycline	stateCYL	0.124236
+CoNS	tetracycline	stateELN	0.1
+CoNS	tetracycline	stateEPB	0.19045
+CoNS	tetracycline	stateERZ	0.068333
+CoNS	tetracycline	stateEVG	0.14465
+CoNS	tetracycline	stateGKW	0.120066
+CoNS	tetracycline	stateHQX	0.162996
+CoNS	tetracycline	stateIJE	0.202596
+CoNS	tetracycline	stateIWK	0.13087
+CoNS	tetracycline	stateJBF	0.166086
+CoNS	tetracycline	stateKFE	0.144919
+CoNS	tetracycline	stateLJC	0.146736
+CoNS	tetracycline	stateLMH	0.135344
+CoNS	tetracycline	stateLWR	0.145562
+CoNS	tetracycline	stateMMO	0.139211
+CoNS	tetracycline	stateOUP	0.180046
+CoNS	tetracycline	statePIO	0.139623
+CoNS	tetracycline	statePJJ	0.106772
+CoNS	tetracycline	stateRHV	0.221684
+CoNS	tetracycline	stateSHP	0.16527
+CoNS	tetracycline	stateSLZ	0.160102
+CoNS	tetracycline	stateSNB	0.131511
+CoNS	tetracycline	stateSTP	0.15629
+CoNS	tetracycline	stateTGK	0.21
+CoNS	tetracycline	stateTMR	0.15123
+CoNS	tetracycline	stateTOE	0.162147
+CoNS	tetracycline	stateUEQ	0.18
+CoNS	tetracycline	stateUMX	0.171458
+CoNS	tetracycline	stateVIE	0.146912
+CoNS	tetracycline	stateWPV	0.156988
+CoNS	tetracycline	stateXYX	0.139381
+CoNS	tetracycline	stateYJD	0.17
+CoNS	tetracycline	stateYUW	0.164953
+CoNS	tetracycline	stateYVE	0.166103
+CoNS	tetracycline	stateZWS	0.193467
+CoNS	tmpsmx	stateBFU	0.295189
+CoNS	tmpsmx	stateCCZ	0.358878
+CoNS	tmpsmx	stateCUX	0.404683
+CoNS	tmpsmx	stateCWD	0.35
+CoNS	tmpsmx	stateCYL	0.53
+CoNS	tmpsmx	stateELN	0.185089
+CoNS	tmpsmx	stateEPB	0.431939
+CoNS	tmpsmx	stateERZ	0.034
+CoNS	tmpsmx	stateEVG	0.27
+CoNS	tmpsmx	stateGKW	0.387259
+CoNS	tmpsmx	stateHQX	0.453806
+CoNS	tmpsmx	stateIJE	0.357024
+CoNS	tmpsmx	stateIWK	0.384313
+CoNS	tmpsmx	stateJBF	0.381565
+CoNS	tmpsmx	stateKFE	0.192586
+CoNS	tmpsmx	stateLJC	0.333869
+CoNS	tmpsmx	stateLMH	0.411032
+CoNS	tmpsmx	stateLWR	0.284813
+CoNS	tmpsmx	stateMMO	0.464211
+CoNS	tmpsmx	stateNWF	0.5
+CoNS	tmpsmx	stateOUP	0.383497
+CoNS	tmpsmx	statePIO	0.404059
+CoNS	tmpsmx	stateQES	0.44
+CoNS	tmpsmx	stateRHV	0.423053
+CoNS	tmpsmx	stateSHP	0.298223
+CoNS	tmpsmx	stateSLZ	0.529771
+CoNS	tmpsmx	stateSNB	0.278351
+CoNS	tmpsmx	stateSTP	0.270544
+CoNS	tmpsmx	stateTGK	0.54
+CoNS	tmpsmx	stateTMR	0.357474
+CoNS	tmpsmx	stateTOE	0.276056
+CoNS	tmpsmx	stateUEQ	0.31
+CoNS	tmpsmx	stateUMX	0.381885
+CoNS	tmpsmx	stateVIE	0.344275
+CoNS	tmpsmx	stateVUS	0.28384
+CoNS	tmpsmx	stateWPV	0.514329
+CoNS	tmpsmx	stateXYX	0.407322
+CoNS	tmpsmx	stateYJD	0.29
+CoNS	tmpsmx	stateYUW	0.479894
+CoNS	tmpsmx	stateYVE	0.366497
+CoNS	tmpsmx	stateZWS	0.417279
+E. aerogenes	beta_lactam	stateCCZ	0.558631
+E. aerogenes	beta_lactam	stateCUX	0.1
+E. aerogenes	beta_lactam	stateCWD	0.17
+E. aerogenes	beta_lactam	stateCYL	0.740256
+E. aerogenes	beta_lactam	stateELN	0.030513
+E. aerogenes	beta_lactam	stateEPB	0.514857
+E. aerogenes	beta_lactam	stateERZ	0.507018
+E. aerogenes	beta_lactam	stateEVG	0.03
+E. aerogenes	beta_lactam	stateGKW	0.308456
+E. aerogenes	beta_lactam	stateHQX	0.11
+E. aerogenes	beta_lactam	stateIJE	0.519217
+E. aerogenes	beta_lactam	stateIWK	0.158696
+E. aerogenes	beta_lactam	stateJBF	0.100328
+E. aerogenes	beta_lactam	stateKFE	0.772782
+E. aerogenes	beta_lactam	stateLJC	0.421312
+E. aerogenes	beta_lactam	stateLMH	0.164268
+E. aerogenes	beta_lactam	stateLWR	0.309667
+E. aerogenes	beta_lactam	stateMMO	0.196197
+E. aerogenes	beta_lactam	stateNWF	0.064235
+E. aerogenes	beta_lactam	stateOUP	0.215132
+E. aerogenes	beta_lactam	statePIO	0.132679
+E. aerogenes	beta_lactam	statePJJ	0.172276
+E. aerogenes	beta_lactam	stateRHV	0.555
+E. aerogenes	beta_lactam	stateSHP	0.195022
+E. aerogenes	beta_lactam	stateSLZ	0.390513
+E. aerogenes	beta_lactam	stateSNB	0.331961
+E. aerogenes	beta_lactam	stateTMR	0.347488
+E. aerogenes	beta_lactam	stateTOE	0.105
+E. aerogenes	beta_lactam	stateUEQ	0.19
+E. aerogenes	beta_lactam	stateUMX	0.376546
+E. aerogenes	beta_lactam	stateVIE	0.304638
+E. aerogenes	beta_lactam	stateWFM	0.08
+E. aerogenes	beta_lactam	stateWPV	0.423968
+E. aerogenes	beta_lactam	stateXYX	0.701165
+E. aerogenes	beta_lactam	stateYJD	0.733333
+E. aerogenes	beta_lactam	stateYUW	0.111775
+E. aerogenes	beta_lactam	stateYVE	0.379092
+E. aerogenes	beta_lactam	stateZWS	0.67862
+E. aerogenes	cephalosporin	stateCCZ	0.296638
+E. aerogenes	cephalosporin	stateCUX	0.1031
+E. aerogenes	cephalosporin	stateCWD	0.116667
+E. aerogenes	cephalosporin	stateCYL	0.353397
+E. aerogenes	cephalosporin	stateELN	0.02
+E. aerogenes	cephalosporin	stateEPB	0.276379
+E. aerogenes	cephalosporin	stateERZ	0.155892
+E. aerogenes	cephalosporin	stateEVG	0.01
+E. aerogenes	cephalosporin	stateGKW	0.167568
+E. aerogenes	cephalosporin	stateHQX	0
+E. aerogenes	cephalosporin	stateIJE	0.302201
+E. aerogenes	cephalosporin	stateIWK	0.284348
+E. aerogenes	cephalosporin	stateJBF	0.128764
+E. aerogenes	cephalosporin	stateKFE	0.432487
+E. aerogenes	cephalosporin	stateLJC	0.175495
+E. aerogenes	cephalosporin	stateLMH	0.063361
+E. aerogenes	cephalosporin	stateLWR	0.148111
+E. aerogenes	cephalosporin	stateMMO	0.133286
+E. aerogenes	cephalosporin	stateNWF	0.109059
+E. aerogenes	cephalosporin	stateOUP	0.136143
+E. aerogenes	cephalosporin	statePIO	0.178601
+E. aerogenes	cephalosporin	statePJJ	0.114644
+E. aerogenes	cephalosporin	stateRHV	0.29156
+E. aerogenes	cephalosporin	stateSHP	0.196362
+E. aerogenes	cephalosporin	stateSLZ	0.351051
+E. aerogenes	cephalosporin	stateSNB	0.118729
+E. aerogenes	cephalosporin	stateTMR	0.182052
+E. aerogenes	cephalosporin	stateTOE	0.073333
+E. aerogenes	cephalosporin	stateUEQ	0.105
+E. aerogenes	cephalosporin	stateUMX	0.245289
+E. aerogenes	cephalosporin	stateVIE	0.214643
+E. aerogenes	cephalosporin	stateVUS	0.061667
+E. aerogenes	cephalosporin	stateWFM	0.04
+E. aerogenes	cephalosporin	stateWPV	0.303662
+E. aerogenes	cephalosporin	stateXYX	0.256408
+E. aerogenes	cephalosporin	stateYJD	0.416667
+E. aerogenes	cephalosporin	stateYUW	0.12562
+E. aerogenes	cephalosporin	stateYVE	0.287153
+E. aerogenes	cephalosporin	stateZWS	0.440194
+E. aerogenes	nitrofurantoin	stateCCZ	0.861953
+E. aerogenes	nitrofurantoin	stateCUX	0.528172
+E. aerogenes	nitrofurantoin	stateCYL	0.863077
+E. aerogenes	nitrofurantoin	stateELN	0.847308
+E. aerogenes	nitrofurantoin	stateEPB	0.872974
+E. aerogenes	nitrofurantoin	stateERZ	0.782836
+E. aerogenes	nitrofurantoin	stateEVG	0.5
+E. aerogenes	nitrofurantoin	stateGKW	0.895161
+E. aerogenes	nitrofurantoin	stateIJE	0.804274
+E. aerogenes	nitrofurantoin	stateIWK	0.893478
+E. aerogenes	nitrofurantoin	stateJBF	0.885087
+E. aerogenes	nitrofurantoin	stateKFE	0.856969
+E. aerogenes	nitrofurantoin	stateLJC	0.790845
+E. aerogenes	nitrofurantoin	stateLWR	0.752133
+E. aerogenes	nitrofurantoin	stateMMO	0.928169
+E. aerogenes	nitrofurantoin	stateNWF	0.831209
+E. aerogenes	nitrofurantoin	stateOUP	0.567397
+E. aerogenes	nitrofurantoin	statePIO	0.621831
+E. aerogenes	nitrofurantoin	statePJJ	0.786355
+E. aerogenes	nitrofurantoin	stateRHV	0.92
+E. aerogenes	nitrofurantoin	stateSHP	0.852868
+E. aerogenes	nitrofurantoin	stateSLZ	0.854054
+E. aerogenes	nitrofurantoin	stateSNB	0.363618
+E. aerogenes	nitrofurantoin	stateSTP	0.687671
+E. aerogenes	nitrofurantoin	stateTMR	0.856083
+E. aerogenes	nitrofurantoin	stateUMX	0.881049
+E. aerogenes	nitrofurantoin	stateVIE	0.682566
+E. aerogenes	nitrofurantoin	stateVUS	0.91
+E. aerogenes	nitrofurantoin	stateWPV	0.870755
+E. aerogenes	nitrofurantoin	stateXYX	0.754229
+E. aerogenes	nitrofurantoin	stateYJD	0.87
+E. aerogenes	nitrofurantoin	stateYUW	0.792944
+E. aerogenes	nitrofurantoin	stateYVE	0.832697
+E. aerogenes	nitrofurantoin	stateZWS	0.839974
+E. aerogenes	quinolone	stateCCZ	0.030356
+E. aerogenes	quinolone	stateCUX	0.016201
+E. aerogenes	quinolone	stateCWD	0
+E. aerogenes	quinolone	stateCYL	0.037564
+E. aerogenes	quinolone	stateELN	0.005256
+E. aerogenes	quinolone	stateEPB	0.047407
+E. aerogenes	quinolone	stateERZ	0.029649
+E. aerogenes	quinolone	stateEVG	0.01614
+E. aerogenes	quinolone	stateGKW	0.014147
+E. aerogenes	quinolone	stateHQX	0
+E. aerogenes	quinolone	stateIJE	0.026518
+E. aerogenes	quinolone	stateIWK	0.018522
+E. aerogenes	quinolone	stateJBF	0.016967
+E. aerogenes	quinolone	stateKFE	0.018207
+E. aerogenes	quinolone	stateLJC	0
+E. aerogenes	quinolone	stateLMH	0.004835
+E. aerogenes	quinolone	stateLWR	0.063233
+E. aerogenes	quinolone	stateMMO	0.011268
+E. aerogenes	quinolone	stateNWF	0.016765
+E. aerogenes	quinolone	stateOUP	0.019597
+E. aerogenes	quinolone	statePIO	0.003839
+E. aerogenes	quinolone	statePJJ	0.029172
+E. aerogenes	quinolone	stateRHV	0.012179
+E. aerogenes	quinolone	stateSHP	0.020677
+E. aerogenes	quinolone	stateSLZ	0.058642
+E. aerogenes	quinolone	stateSNB	0.015233
+E. aerogenes	quinolone	stateSTP	0.006781
+E. aerogenes	quinolone	stateTMR	0.010112
+E. aerogenes	quinolone	stateTOE	0.015
+E. aerogenes	quinolone	stateUEQ	0.035
+E. aerogenes	quinolone	stateUMX	0.030745
+E. aerogenes	quinolone	stateVIE	0.012778
+E. aerogenes	quinolone	stateVUS	0
+E. aerogenes	quinolone	stateWFM	0
+E. aerogenes	quinolone	stateWPV	0.157147
+E. aerogenes	quinolone	stateXYX	0.042526
+E. aerogenes	quinolone	stateYJD	0.02
+E. aerogenes	quinolone	stateYUW	0.02132
+E. aerogenes	quinolone	stateYVE	0.017416
+E. aerogenes	quinolone	stateZWS	0.183206
+E. aerogenes	tmpsmx	stateCCZ	0.026564
+E. aerogenes	tmpsmx	stateCUX	0.023799
+E. aerogenes	tmpsmx	stateCWD	0.03
+E. aerogenes	tmpsmx	stateCYL	0.018974
+E. aerogenes	tmpsmx	stateELN	0.014231
+E. aerogenes	tmpsmx	stateEPB	0.051157
+E. aerogenes	tmpsmx	stateERZ	0.042632
+E. aerogenes	tmpsmx	stateEVG	0.075263
+E. aerogenes	tmpsmx	stateGKW	0.007719
+E. aerogenes	tmpsmx	stateHQX	0
+E. aerogenes	tmpsmx	stateIJE	0.018596
+E. aerogenes	tmpsmx	stateIWK	0.030261
+E. aerogenes	tmpsmx	stateJBF	0.015082
+E. aerogenes	tmpsmx	stateKFE	0.041886
+E. aerogenes	tmpsmx	stateLJC	0.020396
+E. aerogenes	tmpsmx	stateLMH	0
+E. aerogenes	tmpsmx	stateLWR	0.074333
+E. aerogenes	tmpsmx	stateMMO	0.011268
+E. aerogenes	tmpsmx	stateNWF	0.011647
+E. aerogenes	tmpsmx	stateOUP	0.019686
+E. aerogenes	tmpsmx	statePIO	0
+E. aerogenes	tmpsmx	statePJJ	0.03269
+E. aerogenes	tmpsmx	stateRHV	0
+E. aerogenes	tmpsmx	stateSHP	0.01184
+E. aerogenes	tmpsmx	stateSLZ	0.056026
+E. aerogenes	tmpsmx	stateSNB	0.014992
+E. aerogenes	tmpsmx	stateSTP	0.013562
+E. aerogenes	tmpsmx	stateTMR	0.006511
+E. aerogenes	tmpsmx	stateTOE	0.02
+E. aerogenes	tmpsmx	stateUEQ	0.02
+E. aerogenes	tmpsmx	stateUMX	0.029103
+E. aerogenes	tmpsmx	stateVIE	0.013307
+E. aerogenes	tmpsmx	stateVUS	0.02
+E. aerogenes	tmpsmx	stateWFM	0.01
+E. aerogenes	tmpsmx	stateWPV	0.124689
+E. aerogenes	tmpsmx	stateXYX	0.026915
+E. aerogenes	tmpsmx	stateYJD	0
+E. aerogenes	tmpsmx	stateYUW	0.025584
+E. aerogenes	tmpsmx	stateYVE	0.01604
+E. aerogenes	tmpsmx	stateZWS	0.141943
+E. cloacae	beta_lactam	stateBFU	0.060552
+E. cloacae	beta_lactam	stateCCZ	0.552179
+E. cloacae	beta_lactam	stateCUX	0.202957
+E. cloacae	beta_lactam	stateCWD	0.17
+E. cloacae	beta_lactam	stateCYL	0.60559
+E. cloacae	beta_lactam	stateELN	0.08749
+E. cloacae	beta_lactam	stateEPB	0.483672
+E. cloacae	beta_lactam	stateERZ	0.545336
+E. cloacae	beta_lactam	stateEVG	0.16
+E. cloacae	beta_lactam	stateGKW	0.37981
+E. cloacae	beta_lactam	stateHQX	0.119524
+E. cloacae	beta_lactam	stateIJE	0.579258
+E. cloacae	beta_lactam	stateIWK	0.2381
+E. cloacae	beta_lactam	stateJBF	0.111868
+E. cloacae	beta_lactam	stateKFE	0.762225
+E. cloacae	beta_lactam	stateLJC	0.56627
+E. cloacae	beta_lactam	stateLMH	0.152901
+E. cloacae	beta_lactam	stateLWR	0.668661
+E. cloacae	beta_lactam	stateMMO	0.16937
+E. cloacae	beta_lactam	stateNWF	0.107132
+E. cloacae	beta_lactam	stateOUP	0.326289
+E. cloacae	beta_lactam	statePIO	0.149298
+E. cloacae	beta_lactam	statePJJ	0.142908
+E. cloacae	beta_lactam	stateRHV	0.555
+E. cloacae	beta_lactam	stateSHP	0.301361
+E. cloacae	beta_lactam	stateSLZ	0.377974
+E. cloacae	beta_lactam	stateSNB	0.430779
+E. cloacae	beta_lactam	stateSTP	0.113927
+E. cloacae	beta_lactam	stateTGK	0.02
+E. cloacae	beta_lactam	stateTMR	0.442182
+E. cloacae	beta_lactam	stateTOE	0.220727
+E. cloacae	beta_lactam	stateUEQ	0.18
+E. cloacae	beta_lactam	stateUMX	0.322557
+E. cloacae	beta_lactam	stateVIE	0.16427
+E. cloacae	beta_lactam	stateWFM	0.12
+E. cloacae	beta_lactam	stateWPV	0.48446
+E. cloacae	beta_lactam	stateXYX	0.634918
+E. cloacae	beta_lactam	stateYJD	0.693333
+E. cloacae	beta_lactam	stateYUW	0.138958
+E. cloacae	beta_lactam	stateYVE	0.353197
+E. cloacae	beta_lactam	stateZWS	0.71663
+E. cloacae	cephalosporin	stateBFU	0.037707
+E. cloacae	cephalosporin	stateCCZ	0.365533
+E. cloacae	cephalosporin	stateCUX	0.179802
+E. cloacae	cephalosporin	stateCWD	0.13
+E. cloacae	cephalosporin	stateCYL	0.315926
+E. cloacae	cephalosporin	stateELN	0.052251
+E. cloacae	cephalosporin	stateEPB	0.335393
+E. cloacae	cephalosporin	stateERZ	0.198568
+E. cloacae	cephalosporin	stateEVG	0.01
+E. cloacae	cephalosporin	stateGKW	0.221656
+E. cloacae	cephalosporin	stateHQX	0.027143
+E. cloacae	cephalosporin	stateIJE	0.377285
+E. cloacae	cephalosporin	stateIWK	0.339197
+E. cloacae	cephalosporin	stateJBF	0.194146
+E. cloacae	cephalosporin	stateKFE	0.46234
+E. cloacae	cephalosporin	stateLJC	0.338257
+E. cloacae	cephalosporin	stateLMH	0.124655
+E. cloacae	cephalosporin	stateLWR	0.327337
+E. cloacae	cephalosporin	stateMMO	0.302879
+E. cloacae	cephalosporin	stateNWF	0.259579
+E. cloacae	cephalosporin	stateOUP	0.209602
+E. cloacae	cephalosporin	statePIO	0.270301
+E. cloacae	cephalosporin	statePJJ	0.121101
+E. cloacae	cephalosporin	stateRHV	0.320564
+E. cloacae	cephalosporin	stateSHP	0.249861
+E. cloacae	cephalosporin	stateSLZ	0.384222
+E. cloacae	cephalosporin	stateSNB	0.205361
+E. cloacae	cephalosporin	stateSTP	0.144985
+E. cloacae	cephalosporin	stateTGK	0.166667
+E. cloacae	cephalosporin	stateTMR	0.238624
+E. cloacae	cephalosporin	stateTOE	0.13836
+E. cloacae	cephalosporin	stateUEQ	0.13
+E. cloacae	cephalosporin	stateUMX	0.293168
+E. cloacae	cephalosporin	stateVIE	0.148795
+E. cloacae	cephalosporin	stateVUS	0.08435
+E. cloacae	cephalosporin	stateWFM	0.08
+E. cloacae	cephalosporin	stateWPV	0.402308
+E. cloacae	cephalosporin	stateXYX	0.204212
+E. cloacae	cephalosporin	stateYJD	0.37
+E. cloacae	cephalosporin	stateYUW	0.166553
+E. cloacae	cephalosporin	stateYVE	0.258695
+E. cloacae	cephalosporin	stateZWS	0.561939
+E. cloacae	nitrofurantoin	stateBFU	0.727348
+E. cloacae	nitrofurantoin	stateCCZ	0.796741
+E. cloacae	nitrofurantoin	stateCUX	0.457703
+E. cloacae	nitrofurantoin	stateCYL	0.840892
+E. cloacae	nitrofurantoin	stateELN	0.530478
+E. cloacae	nitrofurantoin	stateEPB	0.699221
+E. cloacae	nitrofurantoin	stateERZ	0.738232
+E. cloacae	nitrofurantoin	stateEVG	0.6
+E. cloacae	nitrofurantoin	stateGKW	0.743898
+E. cloacae	nitrofurantoin	stateIJE	0.591301
+E. cloacae	nitrofurantoin	stateIWK	0.835753
+E. cloacae	nitrofurantoin	stateJBF	0.722557
+E. cloacae	nitrofurantoin	stateKFE	0.817363
+E. cloacae	nitrofurantoin	stateLJC	0.609345
+E. cloacae	nitrofurantoin	stateLMH	0.760829
+E. cloacae	nitrofurantoin	stateLWR	0.743327
+E. cloacae	nitrofurantoin	stateMMO	0.827378
+E. cloacae	nitrofurantoin	stateNWF	0.829104
+E. cloacae	nitrofurantoin	stateOUP	0.586523
+E. cloacae	nitrofurantoin	statePIO	0.50039
+E. cloacae	nitrofurantoin	statePJJ	0.839382
+E. cloacae	nitrofurantoin	stateRHV	0.81
+E. cloacae	nitrofurantoin	stateSHP	0.67663
+E. cloacae	nitrofurantoin	stateSLZ	0.635379
+E. cloacae	nitrofurantoin	stateSNB	0.548114
+E. cloacae	nitrofurantoin	stateSTP	0.584132
+E. cloacae	nitrofurantoin	stateTGK	0.72
+E. cloacae	nitrofurantoin	stateTMR	0.68733
+E. cloacae	nitrofurantoin	stateTOE	0.95
+E. cloacae	nitrofurantoin	stateUMX	0.732342
+E. cloacae	nitrofurantoin	stateVIE	0.706845
+E. cloacae	nitrofurantoin	stateVUS	0.727372
+E. cloacae	nitrofurantoin	stateWPV	0.769321
+E. cloacae	nitrofurantoin	stateXYX	0.762797
+E. cloacae	nitrofurantoin	stateYJD	0.71
+E. cloacae	nitrofurantoin	stateYUW	0.731042
+E. cloacae	nitrofurantoin	stateYVE	0.72355
+E. cloacae	nitrofurantoin	stateZWS	0.798964
+E. cloacae	quinolone	stateBFU	0.01
+E. cloacae	quinolone	stateCCZ	0.083008
+E. cloacae	quinolone	stateCUX	0.04075
+E. cloacae	quinolone	stateCWD	0.04
+E. cloacae	quinolone	stateCYL	0.072416
+E. cloacae	quinolone	stateELN	0.02251
+E. cloacae	quinolone	stateEPB	0.045055
+E. cloacae	quinolone	stateERZ	0.030671
+E. cloacae	quinolone	stateEVG	0.032195
+E. cloacae	quinolone	stateGKW	0.023908
+E. cloacae	quinolone	stateHQX	0.015238
+E. cloacae	quinolone	stateIJE	0.12978
+E. cloacae	quinolone	stateIWK	0.114367
+E. cloacae	quinolone	stateJBF	0.022472
+E. cloacae	quinolone	stateKFE	0.042814
+E. cloacae	quinolone	stateLJC	0.051723
+E. cloacae	quinolone	stateLMH	0.018384
+E. cloacae	quinolone	stateLWR	0.080325
+E. cloacae	quinolone	stateMMO	0.054685
+E. cloacae	quinolone	stateNWF	0.103632
+E. cloacae	quinolone	stateOUP	0.082565
+E. cloacae	quinolone	statePIO	0.050151
+E. cloacae	quinolone	statePJJ	0.066867
+E. cloacae	quinolone	stateRHV	0.125569
+E. cloacae	quinolone	stateSHP	0.079634
+E. cloacae	quinolone	stateSLZ	0.051683
+E. cloacae	quinolone	stateSNB	0.072683
+E. cloacae	quinolone	stateSTP	0.04362
+E. cloacae	quinolone	stateTGK	0.28
+E. cloacae	quinolone	stateTMR	0.057457
+E. cloacae	quinolone	stateTOE	0.024804
+E. cloacae	quinolone	stateUEQ	0.09
+E. cloacae	quinolone	stateUMX	0.056215
+E. cloacae	quinolone	stateVIE	0.026642
+E. cloacae	quinolone	stateVUS	0.016526
+E. cloacae	quinolone	stateWFM	0.04
+E. cloacae	quinolone	stateWPV	0.19618
+E. cloacae	quinolone	stateXYX	0.05291
+E. cloacae	quinolone	stateYJD	0.02
+E. cloacae	quinolone	stateYUW	0.063337
+E. cloacae	quinolone	stateYVE	0.050945
+E. cloacae	quinolone	stateZWS	0.225668
+E. cloacae	tmpsmx	stateBFU	0.04
+E. cloacae	tmpsmx	stateCCZ	0.144788
+E. cloacae	tmpsmx	stateCUX	0.106531
+E. cloacae	tmpsmx	stateCWD	0.05
+E. cloacae	tmpsmx	stateCYL	0.109408
+E. cloacae	tmpsmx	stateELN	0.138526
+E. cloacae	tmpsmx	stateEPB	0.146059
+E. cloacae	tmpsmx	stateERZ	0.137561
+E. cloacae	tmpsmx	stateEVG	0.075854
+E. cloacae	tmpsmx	stateGKW	0.082883
+E. cloacae	tmpsmx	stateHQX	0.038095
+E. cloacae	tmpsmx	stateIJE	0.123153
+E. cloacae	tmpsmx	stateIWK	0.145701
+E. cloacae	tmpsmx	stateJBF	0.078885
+E. cloacae	tmpsmx	stateKFE	0.103416
+E. cloacae	tmpsmx	stateLJC	0.10811
+E. cloacae	tmpsmx	stateLMH	0.079972
+E. cloacae	tmpsmx	stateLWR	0.124665
+E. cloacae	tmpsmx	stateMMO	0.110469
+E. cloacae	tmpsmx	stateNWF	0.179526
+E. cloacae	tmpsmx	stateOUP	0.120676
+E. cloacae	tmpsmx	statePIO	0.093813
+E. cloacae	tmpsmx	statePJJ	0.107936
+E. cloacae	tmpsmx	stateRHV	0.147365
+E. cloacae	tmpsmx	stateSHP	0.114173
+E. cloacae	tmpsmx	stateSLZ	0.085435
+E. cloacae	tmpsmx	stateSNB	0.115697
+E. cloacae	tmpsmx	stateSTP	0.08117
+E. cloacae	tmpsmx	stateTGK	0.17
+E. cloacae	tmpsmx	stateTMR	0.11434
+E. cloacae	tmpsmx	stateTOE	0.07
+E. cloacae	tmpsmx	stateUEQ	0.1
+E. cloacae	tmpsmx	stateUMX	0.128368
+E. cloacae	tmpsmx	stateVIE	0.07643
+E. cloacae	tmpsmx	stateVUS	0.056949
+E. cloacae	tmpsmx	stateWFM	0.06
+E. cloacae	tmpsmx	stateWPV	0.226392
+E. cloacae	tmpsmx	stateXYX	0.125381
+E. cloacae	tmpsmx	stateYJD	0.14
+E. cloacae	tmpsmx	stateYUW	0.112084
+E. cloacae	tmpsmx	stateYVE	0.096789
+E. cloacae	tmpsmx	stateZWS	0.258623
+E. coli	beta_lactam	stateBFU	0.185516
+E. coli	beta_lactam	stateCCZ	0.313352
+E. coli	beta_lactam	stateCUX	0.26872
+E. coli	beta_lactam	stateCWD	0.219446
+E. coli	beta_lactam	stateCYL	0.306566
+E. coli	beta_lactam	stateELN	0.15647
+E. coli	beta_lactam	stateEPB	0.309825
+E. coli	beta_lactam	stateERZ	0.206246
+E. coli	beta_lactam	stateEVG	0.24701
+E. coli	beta_lactam	stateGKW	0.188897
+E. coli	beta_lactam	stateHMP	0.356667
+E. coli	beta_lactam	stateHQX	0.243775
+E. coli	beta_lactam	stateIJE	0.327229
+E. coli	beta_lactam	stateIWK	0.273608
+E. coli	beta_lactam	stateJBF	0.315132
+E. coli	beta_lactam	stateKFE	0.288521
+E. coli	beta_lactam	stateLJC	0.252883
+E. coli	beta_lactam	stateLMH	0.228047
+E. coli	beta_lactam	stateLWR	0.28092
+E. coli	beta_lactam	stateMMO	0.380353
+E. coli	beta_lactam	stateNWF	0.202175
+E. coli	beta_lactam	stateOUP	0.199164
+E. coli	beta_lactam	statePIO	0.188143
+E. coli	beta_lactam	statePJJ	0.235975
+E. coli	beta_lactam	stateQES	0.39
+E. coli	beta_lactam	stateRHV	0.535101
+E. coli	beta_lactam	stateSHP	0.281696
+E. coli	beta_lactam	stateSLZ	0.333956
+E. coli	beta_lactam	stateSNB	0.305077
+E. coli	beta_lactam	stateSTP	0.376217
+E. coli	beta_lactam	stateTGK	0.264058
+E. coli	beta_lactam	stateTMR	0.260654
+E. coli	beta_lactam	stateTOE	0.194787
+E. coli	beta_lactam	stateUEQ	0.283333
+E. coli	beta_lactam	stateUMX	0.323248
+E. coli	beta_lactam	stateVIE	0.254161
+E. coli	beta_lactam	stateVUS	0.250928
+E. coli	beta_lactam	stateWFM	0.28
+E. coli	beta_lactam	stateWPV	0.3426
+E. coli	beta_lactam	stateXYX	0.276414
+E. coli	beta_lactam	stateYJD	0.273333
+E. coli	beta_lactam	stateYUW	0.279233
+E. coli	beta_lactam	stateYVE	0.258235
+E. coli	beta_lactam	stateZWS	0.352937
+E. coli	cephalosporin	stateBFU	0.059543
+E. coli	cephalosporin	stateCCZ	0.118918
+E. coli	cephalosporin	stateCUX	0.09012
+E. coli	cephalosporin	stateCWD	0.047504
+E. coli	cephalosporin	stateCYL	0.136866
+E. coli	cephalosporin	stateELN	0.069789
+E. coli	cephalosporin	stateEPB	0.140402
+E. coli	cephalosporin	stateERZ	0.35194
+E. coli	cephalosporin	stateEVG	0.086245
+E. coli	cephalosporin	stateGKW	0.040469
+E. coli	cephalosporin	stateHMP	0.098
+E. coli	cephalosporin	stateHQX	0.091029
+E. coli	cephalosporin	stateIJE	0.089079
+E. coli	cephalosporin	stateIWK	0.134583
+E. coli	cephalosporin	stateJBF	0.089029
+E. coli	cephalosporin	stateKFE	0.092759
+E. coli	cephalosporin	stateLJC	0.078991
+E. coli	cephalosporin	stateLMH	0.044778
+E. coli	cephalosporin	stateLWR	0.058192
+E. coli	cephalosporin	stateMMO	0.119774
+E. coli	cephalosporin	stateNWF	0.07092
+E. coli	cephalosporin	stateOUP	0.059685
+E. coli	cephalosporin	statePIO	0.052541
+E. coli	cephalosporin	statePJJ	0.076633
+E. coli	cephalosporin	stateQES	0.075
+E. coli	cephalosporin	stateRHV	0.106955
+E. coli	cephalosporin	stateSHP	0.074452
+E. coli	cephalosporin	stateSLZ	0.09548
+E. coli	cephalosporin	stateSNB	0.06514
+E. coli	cephalosporin	stateSTP	0.075732
+E. coli	cephalosporin	stateTGK	0.066939
+E. coli	cephalosporin	stateTMR	0.030231
+E. coli	cephalosporin	stateTOE	0.026623
+E. coli	cephalosporin	stateUEQ	0.076667
+E. coli	cephalosporin	stateUMX	0.101536
+E. coli	cephalosporin	stateVIE	0.059042
+E. coli	cephalosporin	stateVUS	0.04205
+E. coli	cephalosporin	stateWFM	0.06
+E. coli	cephalosporin	stateWPV	0.098252
+E. coli	cephalosporin	stateXYX	0.046201
+E. coli	cephalosporin	stateYJD	0.043333000000000003
+E. coli	cephalosporin	stateYUW	0.066136
+E. coli	cephalosporin	stateYVE	0.065216
+E. coli	cephalosporin	stateZWS	0.146675
+E. coli	nitrofurantoin	stateBFU	0.047526
+E. coli	nitrofurantoin	stateCCZ	0.050165
+E. coli	nitrofurantoin	stateCUX	0.019164
+E. coli	nitrofurantoin	stateCWD	0.05
+E. coli	nitrofurantoin	stateCYL	0.105695
+E. coli	nitrofurantoin	stateELN	0.026888
+E. coli	nitrofurantoin	stateEPB	0.053049
+E. coli	nitrofurantoin	stateERZ	0.03
+E. coli	nitrofurantoin	stateEVG	0.02196
+E. coli	nitrofurantoin	stateGKW	0.056132
+E. coli	nitrofurantoin	stateHQX	0.080178
+E. coli	nitrofurantoin	stateIJE	0.03368
+E. coli	nitrofurantoin	stateIWK	0.087608
+E. coli	nitrofurantoin	stateJBF	0.035381
+E. coli	nitrofurantoin	stateKFE	0.021404
+E. coli	nitrofurantoin	stateLJC	0.038439
+E. coli	nitrofurantoin	stateLMH	0.061497
+E. coli	nitrofurantoin	stateLWR	0.03544
+E. coli	nitrofurantoin	stateMMO	0.093195
+E. coli	nitrofurantoin	stateNWF	0.063635
+E. coli	nitrofurantoin	stateOUP	0.052791
+E. coli	nitrofurantoin	statePIO	0.040994
+E. coli	nitrofurantoin	statePJJ	0.032559
+E. coli	nitrofurantoin	stateQES	0.02
+E. coli	nitrofurantoin	stateRHV	0.09
+E. coli	nitrofurantoin	stateSHP	0.054546
+E. coli	nitrofurantoin	stateSLZ	0.05
+E. coli	nitrofurantoin	stateSNB	0.059524
+E. coli	nitrofurantoin	stateSTP	0.082406
+E. coli	nitrofurantoin	stateTGK	0.080027
+E. coli	nitrofurantoin	stateTMR	0.047431
+E. coli	nitrofurantoin	stateTOE	0.011559
+E. coli	nitrofurantoin	stateUMX	0.054763
+E. coli	nitrofurantoin	stateVIE	0.051234
+E. coli	nitrofurantoin	stateVUS	0.04
+E. coli	nitrofurantoin	stateWFM	0.02
+E. coli	nitrofurantoin	stateWPV	0.086937
+E. coli	nitrofurantoin	stateXYX	0.029152
+E. coli	nitrofurantoin	stateYJD	0.06
+E. coli	nitrofurantoin	stateYUW	0.02638
+E. coli	nitrofurantoin	stateYVE	0.04592
+E. coli	nitrofurantoin	stateZWS	0.083128
+E. coli	quinolone	stateBFU	0.166244
+E. coli	quinolone	stateCCZ	0.255483
+E. coli	quinolone	stateCUX	0.202691
+E. coli	quinolone	stateCWD	0.171087
+E. coli	quinolone	stateCYL	0.349577
+E. coli	quinolone	stateELN	0.196237
+E. coli	quinolone	stateEPB	0.242581
+E. coli	quinolone	stateERZ	0.229318
+E. coli	quinolone	stateEVG	0.161515
+E. coli	quinolone	stateGKW	0.194906
+E. coli	quinolone	stateHMP	0.245
+E. coli	quinolone	stateHQX	0.239748
+E. coli	quinolone	stateIJE	0.275161
+E. coli	quinolone	stateIWK	0.304325
+E. coli	quinolone	stateJBF	0.115596
+E. coli	quinolone	stateKFE	0.131938
+E. coli	quinolone	stateLJC	0.203595
+E. coli	quinolone	stateLMH	0.170763
+E. coli	quinolone	stateLWR	0.21184
+E. coli	quinolone	stateMMO	0.255366
+E. coli	quinolone	stateNWF	0.200314
+E. coli	quinolone	stateOUP	0.163962
+E. coli	quinolone	statePIO	0.138841
+E. coli	quinolone	statePJJ	0.22585
+E. coli	quinolone	stateQES	0.17
+E. coli	quinolone	stateRHV	0.324784
+E. coli	quinolone	stateSHP	0.194338
+E. coli	quinolone	stateSLZ	0.328595
+E. coli	quinolone	stateSNB	0.182274
+E. coli	quinolone	stateSTP	0.181481
+E. coli	quinolone	stateTGK	0.162872
+E. coli	quinolone	stateTMR	0.152728
+E. coli	quinolone	stateTOE	0.116508
+E. coli	quinolone	stateUEQ	0.2
+E. coli	quinolone	stateUMX	0.228813
+E. coli	quinolone	stateVIE	0.177898
+E. coli	quinolone	stateVUS	0.11
+E. coli	quinolone	stateWFM	0.17
+E. coli	quinolone	stateWPV	0.463074
+E. coli	quinolone	stateXYX	0.163291
+E. coli	quinolone	stateYJD	0.2
+E. coli	quinolone	stateYUW	0.226878
+E. coli	quinolone	stateYVE	0.184594
+E. coli	quinolone	stateZWS	0.507577
+E. coli	tmpsmx	stateBFU	0.170207
+E. coli	tmpsmx	stateCCZ	0.257083
+E. coli	tmpsmx	stateCUX	0.238101
+E. coli	tmpsmx	stateCWD	0.211331
+E. coli	tmpsmx	stateCYL	0.306544
+E. coli	tmpsmx	stateELN	0.232972
+E. coli	tmpsmx	stateEPB	0.354005
+E. coli	tmpsmx	stateERZ	0.219318
+E. coli	tmpsmx	stateEVG	0.248969
+E. coli	tmpsmx	stateGKW	0.21706
+E. coli	tmpsmx	stateHMP	0.34
+E. coli	tmpsmx	stateHQX	0.260826
+E. coli	tmpsmx	stateIJE	0.285107
+E. coli	tmpsmx	stateIWK	0.350091
+E. coli	tmpsmx	stateJBF	0.223415
+E. coli	tmpsmx	stateKFE	0.205125
+E. coli	tmpsmx	stateLJC	0.17641
+E. coli	tmpsmx	stateLMH	0.218281
+E. coli	tmpsmx	stateLWR	0.26
+E. coli	tmpsmx	stateMMO	0.308566
+E. coli	tmpsmx	stateNWF	0.24664
+E. coli	tmpsmx	stateOUP	0.201766
+E. coli	tmpsmx	statePIO	0.167183
+E. coli	tmpsmx	statePJJ	0.267029
+E. coli	tmpsmx	stateQES	0.11
+E. coli	tmpsmx	stateRHV	0.341556
+E. coli	tmpsmx	stateSHP	0.230971
+E. coli	tmpsmx	stateSLZ	0.355857
+E. coli	tmpsmx	stateSNB	0.217023
+E. coli	tmpsmx	stateSTP	0.209505
+E. coli	tmpsmx	stateTGK	0.172502
+E. coli	tmpsmx	stateTMR	0.208223
+E. coli	tmpsmx	stateTOE	0.177287
+E. coli	tmpsmx	stateUEQ	0.24
+E. coli	tmpsmx	stateUMX	0.288962
+E. coli	tmpsmx	stateVIE	0.188316
+E. coli	tmpsmx	stateVUS	0.118685
+E. coli	tmpsmx	stateWFM	0.23
+E. coli	tmpsmx	stateWPV	0.388202
+E. coli	tmpsmx	stateXYX	0.236014
+E. coli	tmpsmx	stateYJD	0.25
+E. coli	tmpsmx	stateYUW	0.24456
+E. coli	tmpsmx	stateYVE	0.210059
+E. coli	tmpsmx	stateZWS	0.369136
+E. faecalis	beta_lactam	stateBFU	0.013256
+E. faecalis	beta_lactam	stateCCZ	0.014908
+E. faecalis	beta_lactam	stateCUX	0
+E. faecalis	beta_lactam	stateCWD	0.01
+E. faecalis	beta_lactam	stateCYL	0.361059
+E. faecalis	beta_lactam	stateELN	0.01
+E. faecalis	beta_lactam	stateEPB	0.013632
+E. faecalis	beta_lactam	stateERZ	0
+E. faecalis	beta_lactam	stateEVG	0.058186
+E. faecalis	beta_lactam	stateGKW	0.016224
+E. faecalis	beta_lactam	stateHQX	0.036995
+E. faecalis	beta_lactam	stateIJE	0.01687
+E. faecalis	beta_lactam	stateIWK	0.010494
+E. faecalis	beta_lactam	stateJBF	0.014438
+E. faecalis	beta_lactam	stateKFE	0.002134
+E. faecalis	beta_lactam	stateLJC	0.013997
+E. faecalis	beta_lactam	stateLMH	0.003255
+E. faecalis	beta_lactam	stateLWR	0.01
+E. faecalis	beta_lactam	stateMMO	0.018373
+E. faecalis	beta_lactam	stateOUP	0.010749
+E. faecalis	beta_lactam	statePIO	0.006341
+E. faecalis	beta_lactam	stateRHV	0.018451
+E. faecalis	beta_lactam	stateSHP	0.006381
+E. faecalis	beta_lactam	stateSLZ	0.001653
+E. faecalis	beta_lactam	stateSNB	0.008496
+E. faecalis	beta_lactam	stateSTP	0.017834
+E. faecalis	beta_lactam	stateTGK	0.095581
+E. faecalis	beta_lactam	stateTMR	0.014922
+E. faecalis	beta_lactam	stateTOE	0.006425
+E. faecalis	beta_lactam	stateUEQ	0
+E. faecalis	beta_lactam	stateUMX	0.007671
+E. faecalis	beta_lactam	stateVIE	0.002663
+E. faecalis	beta_lactam	stateVUS	0
+E. faecalis	beta_lactam	stateWPV	0.013648
+E. faecalis	beta_lactam	stateXYX	0.006883
+E. faecalis	beta_lactam	stateYJD	0.01
+E. faecalis	beta_lactam	stateYUW	0.007889
+E. faecalis	beta_lactam	stateYVE	0.02046
+E. faecalis	beta_lactam	stateZWS	0.021799
+E. faecalis	nitrofurantoin	stateBFU	0.040278
+E. faecalis	nitrofurantoin	stateCCZ	0.007521
+E. faecalis	nitrofurantoin	stateCUX	0
+E. faecalis	nitrofurantoin	stateCWD	0.01
+E. faecalis	nitrofurantoin	stateCYL	0.10206899999999999
+E. faecalis	nitrofurantoin	stateELN	0.007211
+E. faecalis	nitrofurantoin	stateEPB	0.00838
+E. faecalis	nitrofurantoin	stateERZ	0.005526
+E. faecalis	nitrofurantoin	stateGKW	0.003548
+E. faecalis	nitrofurantoin	stateHQX	0.006968
+E. faecalis	nitrofurantoin	stateIJE	0
+E. faecalis	nitrofurantoin	stateIWK	0.040188
+E. faecalis	nitrofurantoin	stateJBF	0.016571
+E. faecalis	nitrofurantoin	stateKFE	0.009272
+E. faecalis	nitrofurantoin	stateLJC	0.016656
+E. faecalis	nitrofurantoin	stateLMH	0.011704
+E. faecalis	nitrofurantoin	stateLWR	0.00526
+E. faecalis	nitrofurantoin	stateMMO	0.021432
+E. faecalis	nitrofurantoin	stateOUP	0.015133
+E. faecalis	nitrofurantoin	statePIO	0
+E. faecalis	nitrofurantoin	stateSHP	0.010512
+E. faecalis	nitrofurantoin	stateSLZ	0.003393
+E. faecalis	nitrofurantoin	stateSNB	0.008875
+E. faecalis	nitrofurantoin	stateSTP	0.004332
+E. faecalis	nitrofurantoin	stateTGK	0
+E. faecalis	nitrofurantoin	stateTMR	0.002563
+E. faecalis	nitrofurantoin	stateTOE	0.00813
+E. faecalis	nitrofurantoin	stateUMX	0.015725
+E. faecalis	nitrofurantoin	stateVIE	0.002945
+E. faecalis	nitrofurantoin	stateVUS	0.01
+E. faecalis	nitrofurantoin	stateWPV	0.019159
+E. faecalis	nitrofurantoin	stateXYX	0.002325
+E. faecalis	nitrofurantoin	stateYJD	0.01
+E. faecalis	nitrofurantoin	stateYUW	0.009139
+E. faecalis	nitrofurantoin	stateYVE	0.003622
+E. faecalis	nitrofurantoin	stateZWS	0.018588
+E. faecalis	quinolone	stateBFU	0.286798
+E. faecalis	quinolone	stateCCZ	0.351195
+E. faecalis	quinolone	stateCUX	0.342111
+E. faecalis	quinolone	stateCWD	0.292868
+E. faecalis	quinolone	stateCYL	0.392598
+E. faecalis	quinolone	stateELN	0.194508
+E. faecalis	quinolone	stateEPB	0.275279
+E. faecalis	quinolone	stateERZ	0.281792
+E. faecalis	quinolone	stateGKW	0.233298
+E. faecalis	quinolone	stateHQX	0.12
+E. faecalis	quinolone	stateIJE	0.282252
+E. faecalis	quinolone	stateIWK	0.268671
+E. faecalis	quinolone	stateJBF	0.254551
+E. faecalis	quinolone	stateKFE	0.225849
+E. faecalis	quinolone	stateLJC	0.271117
+E. faecalis	quinolone	stateLWR	0.32289
+E. faecalis	quinolone	stateMMO	0.372958
+E. faecalis	quinolone	stateOUP	0.239465
+E. faecalis	quinolone	statePIO	0.229974
+E. faecalis	quinolone	stateRHV	0.28
+E. faecalis	quinolone	stateSHP	0.189035
+E. faecalis	quinolone	stateSLZ	0.25394
+E. faecalis	quinolone	stateSTP	0.466684
+E. faecalis	quinolone	stateTGK	0.186977
+E. faecalis	quinolone	stateTMR	0.294252
+E. faecalis	quinolone	stateTOE	0.347621
+E. faecalis	quinolone	stateUMX	0.292129
+E. faecalis	quinolone	stateVIE	0.199607
+E. faecalis	quinolone	stateVUS	0.21
+E. faecalis	quinolone	stateWFM	0.16
+E. faecalis	quinolone	stateWPV	0.571835
+E. faecalis	quinolone	stateXYX	0.25304
+E. faecalis	quinolone	stateYUW	0.320901
+E. faecalis	quinolone	stateYVE	0.325914
+E. faecalis	quinolone	stateZWS	0.608823
+E. faecium	beta_lactam	stateBFU	0.792156
+E. faecium	beta_lactam	stateCCZ	0.875783
+E. faecium	beta_lactam	stateCUX	0.815377
+E. faecium	beta_lactam	stateCWD	0.822064
+E. faecium	beta_lactam	stateCYL	0.936918
+E. faecium	beta_lactam	stateELN	0.785207
+E. faecium	beta_lactam	stateEPB	0.704516
+E. faecium	beta_lactam	stateERZ	0.718322
+E. faecium	beta_lactam	stateEVG	0.857037
+E. faecium	beta_lactam	stateGKW	0.776925
+E. faecium	beta_lactam	stateHQX	0.63
+E. faecium	beta_lactam	stateIJE	0.831225
+E. faecium	beta_lactam	stateIWK	0.920909
+E. faecium	beta_lactam	stateJBF	0.65223
+E. faecium	beta_lactam	stateKFE	0.737026
+E. faecium	beta_lactam	stateLJC	0.819853
+E. faecium	beta_lactam	stateLMH	0.611409
+E. faecium	beta_lactam	stateLWR	0.802592
+E. faecium	beta_lactam	stateMMO	0.844122
+E. faecium	beta_lactam	stateOUP	0.828301
+E. faecium	beta_lactam	statePIO	0.875427
+E. faecium	beta_lactam	stateRHV	0.785259
+E. faecium	beta_lactam	stateSHP	0.863106
+E. faecium	beta_lactam	stateSLZ	0.85822
+E. faecium	beta_lactam	stateSNB	0.863695
+E. faecium	beta_lactam	stateSTP	0.936161
+E. faecium	beta_lactam	stateTMR	0.825312
+E. faecium	beta_lactam	stateTOE	0.568043
+E. faecium	beta_lactam	stateUEQ	0.88
+E. faecium	beta_lactam	stateUMX	0.835169
+E. faecium	beta_lactam	stateVIE	0.712963
+E. faecium	beta_lactam	stateVUS	0.64
+E. faecium	beta_lactam	stateWPV	0.861882
+E. faecium	beta_lactam	stateXYX	0.910359
+E. faecium	beta_lactam	stateYJD	0.87
+E. faecium	beta_lactam	stateYUW	0.790905
+E. faecium	beta_lactam	stateYVE	0.870273
+E. faecium	beta_lactam	stateZWS	0.862332
+K. oxytoca	beta_lactam	stateCCZ	0.355693
+K. oxytoca	beta_lactam	stateCUX	0.073333
+K. oxytoca	beta_lactam	stateCWD	0.496667
+K. oxytoca	beta_lactam	stateCYL	0.366968
+K. oxytoca	beta_lactam	stateELN	0.01875
+K. oxytoca	beta_lactam	stateEPB	0.371436
+K. oxytoca	beta_lactam	stateEVG	0.218666
+K. oxytoca	beta_lactam	stateGKW	0.204397
+K. oxytoca	beta_lactam	stateHQX	0.283485
+K. oxytoca	beta_lactam	stateIJE	0.480762
+K. oxytoca	beta_lactam	stateIWK	0.282547
+K. oxytoca	beta_lactam	stateJBF	0.427922
+K. oxytoca	beta_lactam	stateKFE	0.393647
+K. oxytoca	beta_lactam	stateLJC	0.325
+K. oxytoca	beta_lactam	stateLMH	0.13
+K. oxytoca	beta_lactam	stateLWR	0.324635
+K. oxytoca	beta_lactam	stateMMO	0.172486
+K. oxytoca	beta_lactam	stateNWF	0.12022
+K. oxytoca	beta_lactam	stateOUP	0.239747
+K. oxytoca	beta_lactam	statePIO	0.344983
+K. oxytoca	beta_lactam	statePJJ	0.087647
+K. oxytoca	beta_lactam	stateSHP	0.253713
+K. oxytoca	beta_lactam	stateSLZ	0.48
+K. oxytoca	beta_lactam	stateSNB	0.43911
+K. oxytoca	beta_lactam	stateSTP	0.245044
+K. oxytoca	beta_lactam	stateTMR	0.320828
+K. oxytoca	beta_lactam	stateTOE	0.111267
+K. oxytoca	beta_lactam	stateUEQ	0.145
+K. oxytoca	beta_lactam	stateUMX	0.368094
+K. oxytoca	beta_lactam	stateVIE	0.272297
+K. oxytoca	beta_lactam	stateVUS	0.624136
+K. oxytoca	beta_lactam	stateWFM	0.265
+K. oxytoca	beta_lactam	stateWPV	0.432276
+K. oxytoca	beta_lactam	stateXYX	0.243966
+K. oxytoca	beta_lactam	stateYJD	0.443333
+K. oxytoca	beta_lactam	stateYUW	0.16919
+K. oxytoca	beta_lactam	stateYVE	0.24984
+K. oxytoca	beta_lactam	stateZWS	0.412261
+K. oxytoca	cephalosporin	stateCCZ	0.178422
+K. oxytoca	cephalosporin	stateCUX	0.267937
+K. oxytoca	cephalosporin	stateCWD	0.1725
+K. oxytoca	cephalosporin	stateCYL	0.102866
+K. oxytoca	cephalosporin	stateELN	0.004688
+K. oxytoca	cephalosporin	stateEPB	0.321751
+K. oxytoca	cephalosporin	stateEVG	0.091182
+K. oxytoca	cephalosporin	stateGKW	0.078015
+K. oxytoca	cephalosporin	stateHQX	0.1
+K. oxytoca	cephalosporin	stateIJE	0.201914
+K. oxytoca	cephalosporin	stateIWK	0.103621
+K. oxytoca	cephalosporin	stateJBF	0.132304
+K. oxytoca	cephalosporin	stateKFE	0.142569
+K. oxytoca	cephalosporin	stateLJC	0.18625
+K. oxytoca	cephalosporin	stateLMH	0.03
+K. oxytoca	cephalosporin	stateLWR	0.07269
+K. oxytoca	cephalosporin	stateMMO	0.086257
+K. oxytoca	cephalosporin	stateNWF	0.089748
+K. oxytoca	cephalosporin	stateOUP	0.126167
+K. oxytoca	cephalosporin	statePIO	0.142517
+K. oxytoca	cephalosporin	statePJJ	0.147401
+K. oxytoca	cephalosporin	stateSHP	0.222222
+K. oxytoca	cephalosporin	stateSLZ	0.02
+K. oxytoca	cephalosporin	stateSNB	0.129235
+K. oxytoca	cephalosporin	stateSTP	0.204844
+K. oxytoca	cephalosporin	stateTMR	0.099297
+K. oxytoca	cephalosporin	stateTOE	0.117385
+K. oxytoca	cephalosporin	stateUEQ	0.163333
+K. oxytoca	cephalosporin	stateUMX	0.151199
+K. oxytoca	cephalosporin	stateVIE	0.118266
+K. oxytoca	cephalosporin	stateVUS	0.013086
+K. oxytoca	cephalosporin	stateWFM	0.216667
+K. oxytoca	cephalosporin	stateWPV	0.157832
+K. oxytoca	cephalosporin	stateXYX	0.09546
+K. oxytoca	cephalosporin	stateYJD	0.086667
+K. oxytoca	cephalosporin	stateYUW	0.128771
+K. oxytoca	cephalosporin	stateYVE	0.127529
+K. oxytoca	cephalosporin	stateZWS	0.177154
+K. oxytoca	nitrofurantoin	stateCCZ	0.239084
+K. oxytoca	nitrofurantoin	stateCUX	0.063429
+K. oxytoca	nitrofurantoin	stateCYL	0.106557
+K. oxytoca	nitrofurantoin	stateELN	0.03
+K. oxytoca	nitrofurantoin	stateEPB	0.232331
+K. oxytoca	nitrofurantoin	stateEVG	0.250476
+K. oxytoca	nitrofurantoin	stateGKW	0.177708
+K. oxytoca	nitrofurantoin	stateHQX	0.203636
+K. oxytoca	nitrofurantoin	stateIJE	0.115164
+K. oxytoca	nitrofurantoin	stateIWK	0.304385
+K. oxytoca	nitrofurantoin	stateJBF	0.372513
+K. oxytoca	nitrofurantoin	stateKFE	0.114134
+K. oxytoca	nitrofurantoin	stateLMH	0.19
+K. oxytoca	nitrofurantoin	stateLWR	0.094034
+K. oxytoca	nitrofurantoin	stateMMO	0.27563
+K. oxytoca	nitrofurantoin	stateNWF	0.220225
+K. oxytoca	nitrofurantoin	stateOUP	0.204247
+K. oxytoca	nitrofurantoin	statePIO	0.170925
+K. oxytoca	nitrofurantoin	statePJJ	0.202787
+K. oxytoca	nitrofurantoin	stateSHP	0.290718
+K. oxytoca	nitrofurantoin	stateSLZ	0
+K. oxytoca	nitrofurantoin	stateSNB	0.329851
+K. oxytoca	nitrofurantoin	stateSTP	0.23673
+K. oxytoca	nitrofurantoin	stateTMR	0.254982
+K. oxytoca	nitrofurantoin	stateTOE	0.122078
+K. oxytoca	nitrofurantoin	stateUMX	0.224286
+K. oxytoca	nitrofurantoin	stateVIE	0.180981
+K. oxytoca	nitrofurantoin	stateVUS	0.209383
+K. oxytoca	nitrofurantoin	stateWFM	0.18
+K. oxytoca	nitrofurantoin	stateWPV	0.369556
+K. oxytoca	nitrofurantoin	stateXYX	0.212166
+K. oxytoca	nitrofurantoin	stateYJD	0.16
+K. oxytoca	nitrofurantoin	stateYUW	0.058905
+K. oxytoca	nitrofurantoin	stateYVE	0.213926
+K. oxytoca	nitrofurantoin	stateZWS	0.200794
+K. oxytoca	quinolone	stateCCZ	0.025336
+K. oxytoca	quinolone	stateCUX	0.016381
+K. oxytoca	quinolone	stateCWD	0.03
+K. oxytoca	quinolone	stateCYL	0.023396
+K. oxytoca	quinolone	stateELN	0.01875
+K. oxytoca	quinolone	stateEPB	0.065391
+K. oxytoca	quinolone	stateEVG	0.028412
+K. oxytoca	quinolone	stateGKW	0.013652
+K. oxytoca	quinolone	stateHQX	0.014545
+K. oxytoca	quinolone	stateIJE	0.09025
+K. oxytoca	quinolone	stateIWK	0.004507
+K. oxytoca	quinolone	stateJBF	0.021026
+K. oxytoca	quinolone	stateKFE	0.025711
+K. oxytoca	quinolone	stateLJC	0
+K. oxytoca	quinolone	stateLMH	0.03
+K. oxytoca	quinolone	stateLWR	0.047597
+K. oxytoca	quinolone	stateMMO	0.00291
+K. oxytoca	quinolone	stateNWF	0.015377
+K. oxytoca	quinolone	stateOUP	0.049102
+K. oxytoca	quinolone	statePIO	0.007347
+K. oxytoca	quinolone	statePJJ	0.047914
+K. oxytoca	quinolone	stateSHP	0.06633
+K. oxytoca	quinolone	stateSLZ	0
+K. oxytoca	quinolone	stateSNB	0.020211
+K. oxytoca	quinolone	stateSTP	0.013263
+K. oxytoca	quinolone	stateTMR	0.014058
+K. oxytoca	quinolone	stateTOE	0.010693
+K. oxytoca	quinolone	stateUEQ	0.01
+K. oxytoca	quinolone	stateUMX	0.026657
+K. oxytoca	quinolone	stateVIE	0.017122
+K. oxytoca	quinolone	stateVUS	0
+K. oxytoca	quinolone	stateWFM	0.08
+K. oxytoca	quinolone	stateWPV	0.047154
+K. oxytoca	quinolone	stateXYX	0.023168
+K. oxytoca	quinolone	stateYJD	0
+K. oxytoca	quinolone	stateYUW	0.066714
+K. oxytoca	quinolone	stateYVE	0.0161
+K. oxytoca	quinolone	stateZWS	0.049781
+K. oxytoca	tmpsmx	stateCCZ	0.067146
+K. oxytoca	tmpsmx	stateCUX	0.056381
+K. oxytoca	tmpsmx	stateCWD	0.04
+K. oxytoca	tmpsmx	stateCYL	0.038505
+K. oxytoca	tmpsmx	stateELN	0.032812
+K. oxytoca	tmpsmx	stateEPB	0.12601
+K. oxytoca	tmpsmx	stateEVG	0.097973
+K. oxytoca	tmpsmx	stateGKW	0.030924
+K. oxytoca	tmpsmx	stateHQX	0.04
+K. oxytoca	tmpsmx	stateIJE	0.074444
+K. oxytoca	tmpsmx	stateIWK	0.043662
+K. oxytoca	tmpsmx	stateJBF	0.042325
+K. oxytoca	tmpsmx	stateKFE	0.086585
+K. oxytoca	tmpsmx	stateLJC	0.065
+K. oxytoca	tmpsmx	stateLMH	0.07
+K. oxytoca	tmpsmx	stateLWR	0.060773
+K. oxytoca	tmpsmx	stateMMO	0.085714
+K. oxytoca	tmpsmx	stateNWF	0.043019
+K. oxytoca	tmpsmx	stateOUP	0.071852
+K. oxytoca	tmpsmx	statePIO	0.040272
+K. oxytoca	tmpsmx	statePJJ	0.054011
+K. oxytoca	tmpsmx	stateSHP	0.084714
+K. oxytoca	tmpsmx	stateSLZ	0.08
+K. oxytoca	tmpsmx	stateSNB	0.057564
+K. oxytoca	tmpsmx	stateSTP	0.052366
+K. oxytoca	tmpsmx	stateTMR	0.048297
+K. oxytoca	tmpsmx	stateTOE	0.079003
+K. oxytoca	tmpsmx	stateUEQ	0.01
+K. oxytoca	tmpsmx	stateUMX	0.080717
+K. oxytoca	tmpsmx	stateVIE	0.030397
+K. oxytoca	tmpsmx	stateVUS	0.00716
+K. oxytoca	tmpsmx	stateWFM	0.12
+K. oxytoca	tmpsmx	stateWPV	0.04374
+K. oxytoca	tmpsmx	stateXYX	0.066527
+K. oxytoca	tmpsmx	stateYJD	0.08
+K. oxytoca	tmpsmx	stateYUW	0.045476
+K. oxytoca	tmpsmx	stateYVE	0.047129
+K. oxytoca	tmpsmx	stateZWS	0.070994
+K. pneumoniae	beta_lactam	stateBFU	0.229866
+K. pneumoniae	beta_lactam	stateCCZ	0.307222
+K. pneumoniae	beta_lactam	stateCUX	0.102915
+K. pneumoniae	beta_lactam	stateCWD	0.195099
+K. pneumoniae	beta_lactam	stateCYL	0.353966
+K. pneumoniae	beta_lactam	stateELN	0.07236
+K. pneumoniae	beta_lactam	stateEPB	0.241686
+K. pneumoniae	beta_lactam	stateERZ	0.268
+K. pneumoniae	beta_lactam	stateEVG	0.095888
+K. pneumoniae	beta_lactam	stateGKW	0.102603
+K. pneumoniae	beta_lactam	stateHMP	0.463333
+K. pneumoniae	beta_lactam	stateHQX	0.182981
+K. pneumoniae	beta_lactam	stateIJE	0.389289
+K. pneumoniae	beta_lactam	stateIWK	0.225542
+K. pneumoniae	beta_lactam	stateJBF	0.171157
+K. pneumoniae	beta_lactam	stateKFE	0.332187
+K. pneumoniae	beta_lactam	stateLJC	0.225645
+K. pneumoniae	beta_lactam	stateLMH	0.105041
+K. pneumoniae	beta_lactam	stateLWR	0.342291
+K. pneumoniae	beta_lactam	stateMMO	0.12878
+K. pneumoniae	beta_lactam	stateNWF	0.159216
+K. pneumoniae	beta_lactam	stateOUP	0.095351
+K. pneumoniae	beta_lactam	statePIO	0.310368
+K. pneumoniae	beta_lactam	statePJJ	0.053661
+K. pneumoniae	beta_lactam	stateRHV	0.206923
+K. pneumoniae	beta_lactam	stateSHP	0.169873
+K. pneumoniae	beta_lactam	stateSLZ	0.39962
+K. pneumoniae	beta_lactam	stateSNB	0.304339
+K. pneumoniae	beta_lactam	stateSTP	0.113612
+K. pneumoniae	beta_lactam	stateTGK	0.078379
+K. pneumoniae	beta_lactam	stateTMR	0.249522
+K. pneumoniae	beta_lactam	stateTOE	0.07869
+K. pneumoniae	beta_lactam	stateUEQ	0.135
+K. pneumoniae	beta_lactam	stateUMX	0.278151
+K. pneumoniae	beta_lactam	stateVIE	0.124371
+K. pneumoniae	beta_lactam	stateVUS	0.38435
+K. pneumoniae	beta_lactam	stateWFM	0.1
+K. pneumoniae	beta_lactam	stateWPV	0.281417
+K. pneumoniae	beta_lactam	stateXYX	0.307038
+K. pneumoniae	beta_lactam	stateYJD	0.356667
+K. pneumoniae	beta_lactam	stateYUW	0.13462
+K. pneumoniae	beta_lactam	stateYVE	0.254317
+K. pneumoniae	beta_lactam	stateZWS	0.329988
+K. pneumoniae	cephalosporin	stateBFU	0.076039
+K. pneumoniae	cephalosporin	stateCCZ	0.064526
+K. pneumoniae	cephalosporin	stateCUX	0.042212
+K. pneumoniae	cephalosporin	stateCWD	0.032781
+K. pneumoniae	cephalosporin	stateCYL	0.070007
+K. pneumoniae	cephalosporin	stateELN	0.036783
+K. pneumoniae	cephalosporin	stateEPB	0.128807
+K. pneumoniae	cephalosporin	stateERZ	0.295
+K. pneumoniae	cephalosporin	stateEVG	0.069198
+K. pneumoniae	cephalosporin	stateGKW	0.032528
+K. pneumoniae	cephalosporin	stateHMP	0.148
+K. pneumoniae	cephalosporin	stateHQX	0.042399
+K. pneumoniae	cephalosporin	stateIJE	0.075836
+K. pneumoniae	cephalosporin	stateIWK	0.154905
+K. pneumoniae	cephalosporin	stateJBF	0.051176
+K. pneumoniae	cephalosporin	stateKFE	0.032056
+K. pneumoniae	cephalosporin	stateLJC	0.096695
+K. pneumoniae	cephalosporin	stateLMH	0.015093
+K. pneumoniae	cephalosporin	stateLWR	0.097906000000000007
+K. pneumoniae	cephalosporin	stateMMO	0.068457
+K. pneumoniae	cephalosporin	stateNWF	0.151819
+K. pneumoniae	cephalosporin	stateOUP	0.047355
+K. pneumoniae	cephalosporin	statePIO	0.038669
+K. pneumoniae	cephalosporin	statePJJ	0.058796
+K. pneumoniae	cephalosporin	stateQES	0.33
+K. pneumoniae	cephalosporin	stateRHV	0.059119
+K. pneumoniae	cephalosporin	stateSHP	0.070317
+K. pneumoniae	cephalosporin	stateSLZ	0.092659
+K. pneumoniae	cephalosporin	stateSNB	0.055821
+K. pneumoniae	cephalosporin	stateSTP	0.035874
+K. pneumoniae	cephalosporin	stateTGK	0.065375
+K. pneumoniae	cephalosporin	stateTMR	0.017536
+K. pneumoniae	cephalosporin	stateTOE	0.017455
+K. pneumoniae	cephalosporin	stateUEQ	0.07
+K. pneumoniae	cephalosporin	stateUMX	0.08971
+K. pneumoniae	cephalosporin	stateVIE	0.035255
+K. pneumoniae	cephalosporin	stateVUS	0.01122
+K. pneumoniae	cephalosporin	stateWFM	0.043333000000000003
+K. pneumoniae	cephalosporin	stateWPV	0.094568
+K. pneumoniae	cephalosporin	stateXYX	0.07243
+K. pneumoniae	cephalosporin	stateYJD	0.006667
+K. pneumoniae	cephalosporin	stateYUW	0.045499
+K. pneumoniae	cephalosporin	stateYVE	0.080336
+K. pneumoniae	cephalosporin	stateZWS	0.096444
+K. pneumoniae	nitrofurantoin	stateBFU	0.569912
+K. pneumoniae	nitrofurantoin	stateCCZ	0.648052
+K. pneumoniae	nitrofurantoin	stateCUX	0.404654
+K. pneumoniae	nitrofurantoin	stateCWD	0.654649
+K. pneumoniae	nitrofurantoin	stateCYL	0.585152
+K. pneumoniae	nitrofurantoin	stateELN	0.453101
+K. pneumoniae	nitrofurantoin	stateEPB	0.61849
+K. pneumoniae	nitrofurantoin	stateERZ	0.41
+K. pneumoniae	nitrofurantoin	stateEVG	0.228581
+K. pneumoniae	nitrofurantoin	stateGKW	0.566734
+K. pneumoniae	nitrofurantoin	stateHQX	0.624102
+K. pneumoniae	nitrofurantoin	stateIJE	0.495657
+K. pneumoniae	nitrofurantoin	stateIWK	0.764905
+K. pneumoniae	nitrofurantoin	stateJBF	0.529802
+K. pneumoniae	nitrofurantoin	stateKFE	0.605084
+K. pneumoniae	nitrofurantoin	stateLJC	0.554189
+K. pneumoniae	nitrofurantoin	stateLMH	0.654274
+K. pneumoniae	nitrofurantoin	stateLWR	0.471231
+K. pneumoniae	nitrofurantoin	stateMMO	0.713535
+K. pneumoniae	nitrofurantoin	stateNWF	0.700833
+K. pneumoniae	nitrofurantoin	stateOUP	0.609329
+K. pneumoniae	nitrofurantoin	statePIO	0.364264
+K. pneumoniae	nitrofurantoin	statePJJ	0.630968
+K. pneumoniae	nitrofurantoin	stateQES	0.78
+K. pneumoniae	nitrofurantoin	stateRHV	0.69
+K. pneumoniae	nitrofurantoin	stateSHP	0.656837
+K. pneumoniae	nitrofurantoin	stateSLZ	0.720893
+K. pneumoniae	nitrofurantoin	stateSNB	0.683393
+K. pneumoniae	nitrofurantoin	stateSTP	0.633021
+K. pneumoniae	nitrofurantoin	stateTGK	0.670672
+K. pneumoniae	nitrofurantoin	stateTMR	0.711981
+K. pneumoniae	nitrofurantoin	stateTOE	0.544077
+K. pneumoniae	nitrofurantoin	stateUMX	0.696898
+K. pneumoniae	nitrofurantoin	stateVIE	0.602356
+K. pneumoniae	nitrofurantoin	stateVUS	0.706585
+K. pneumoniae	nitrofurantoin	stateWPV	0.611082
+K. pneumoniae	nitrofurantoin	stateXYX	0.61135
+K. pneumoniae	nitrofurantoin	stateYJD	0.53
+K. pneumoniae	nitrofurantoin	stateYUW	0.426265
+K. pneumoniae	nitrofurantoin	stateYVE	0.589094
+K. pneumoniae	nitrofurantoin	stateZWS	0.589929
+K. pneumoniae	quinolone	stateBFU	0.058822
+K. pneumoniae	quinolone	stateCCZ	0.046952
+K. pneumoniae	quinolone	stateCUX	0.029551
+K. pneumoniae	quinolone	stateCWD	0.033254
+K. pneumoniae	quinolone	stateCYL	0.061883
+K. pneumoniae	quinolone	stateELN	0.035321
+K. pneumoniae	quinolone	stateEPB	0.093487
+K. pneumoniae	quinolone	stateERZ	0.04
+K. pneumoniae	quinolone	stateEVG	0.045575
+K. pneumoniae	quinolone	stateGKW	0.028481
+K. pneumoniae	quinolone	stateHMP	0.09
+K. pneumoniae	quinolone	stateHQX	0.020194
+K. pneumoniae	quinolone	stateIJE	0.073946
+K. pneumoniae	quinolone	stateIWK	0.130328
+K. pneumoniae	quinolone	stateJBF	0.022661
+K. pneumoniae	quinolone	stateKFE	0.023225
+K. pneumoniae	quinolone	stateLJC	0.066538
+K. pneumoniae	quinolone	stateLMH	0.018789
+K. pneumoniae	quinolone	stateLWR	0.083744
+K. pneumoniae	quinolone	stateMMO	0.03817
+K. pneumoniae	quinolone	stateNWF	0.144561
+K. pneumoniae	quinolone	stateOUP	0.062678
+K. pneumoniae	quinolone	statePIO	0.029394
+K. pneumoniae	quinolone	statePJJ	0.052558
+K. pneumoniae	quinolone	stateQES	0.33
+K. pneumoniae	quinolone	stateRHV	0.061122
+K. pneumoniae	quinolone	stateSHP	0.047936
+K. pneumoniae	quinolone	stateSLZ	0.068937
+K. pneumoniae	quinolone	stateSNB	0.051261
+K. pneumoniae	quinolone	stateSTP	0.023058
+K. pneumoniae	quinolone	stateTGK	0.041107
+K. pneumoniae	quinolone	stateTMR	0.024669
+K. pneumoniae	quinolone	stateTOE	0.016444
+K. pneumoniae	quinolone	stateUEQ	0.09
+K. pneumoniae	quinolone	stateUMX	0.083326
+K. pneumoniae	quinolone	stateVIE	0.02665
+K. pneumoniae	quinolone	stateVUS	0.02
+K. pneumoniae	quinolone	stateWFM	0.03
+K. pneumoniae	quinolone	stateWPV	0.128464
+K. pneumoniae	quinolone	stateXYX	0.044855
+K. pneumoniae	quinolone	stateYJD	0.01
+K. pneumoniae	quinolone	stateYUW	0.036435
+K. pneumoniae	quinolone	stateYVE	0.073623
+K. pneumoniae	quinolone	stateZWS	0.09933
+K. pneumoniae	tmpsmx	stateBFU	0.090936
+K. pneumoniae	tmpsmx	stateCCZ	0.093553
+K. pneumoniae	tmpsmx	stateCUX	0.110676
+K. pneumoniae	tmpsmx	stateCWD	0.072121
+K. pneumoniae	tmpsmx	stateCYL	0.092066
+K. pneumoniae	tmpsmx	stateELN	0.105886
+K. pneumoniae	tmpsmx	stateEPB	0.162996
+K. pneumoniae	tmpsmx	stateERZ	0.1
+K. pneumoniae	tmpsmx	stateEVG	0.101855
+K. pneumoniae	tmpsmx	stateGKW	0.064446
+K. pneumoniae	tmpsmx	stateHMP	0.16
+K. pneumoniae	tmpsmx	stateHQX	0.072306
+K. pneumoniae	tmpsmx	stateIJE	0.104976
+K. pneumoniae	tmpsmx	stateIWK	0.174269
+K. pneumoniae	tmpsmx	stateJBF	0.062004
+K. pneumoniae	tmpsmx	stateKFE	0.096874
+K. pneumoniae	tmpsmx	stateLJC	0.13211
+K. pneumoniae	tmpsmx	stateLMH	0.04214
+K. pneumoniae	tmpsmx	stateLWR	0.137488
+K. pneumoniae	tmpsmx	stateMMO	0.109704
+K. pneumoniae	tmpsmx	stateNWF	0.183738
+K. pneumoniae	tmpsmx	stateOUP	0.090511
+K. pneumoniae	tmpsmx	statePIO	0.086358
+K. pneumoniae	tmpsmx	statePJJ	0.091249
+K. pneumoniae	tmpsmx	stateQES	0.28
+K. pneumoniae	tmpsmx	stateRHV	0.087756
+K. pneumoniae	tmpsmx	stateSHP	0.094196
+K. pneumoniae	tmpsmx	stateSLZ	0.10437
+K. pneumoniae	tmpsmx	stateSNB	0.114065
+K. pneumoniae	tmpsmx	stateSTP	0.054639
+K. pneumoniae	tmpsmx	stateTGK	0.067826
+K. pneumoniae	tmpsmx	stateTMR	0.080413
+K. pneumoniae	tmpsmx	stateTOE	0.066125
+K. pneumoniae	tmpsmx	stateUEQ	0.11
+K. pneumoniae	tmpsmx	stateUMX	0.144154
+K. pneumoniae	tmpsmx	stateVIE	0.063042
+K. pneumoniae	tmpsmx	stateVUS	0.056829
+K. pneumoniae	tmpsmx	stateWFM	0.07
+K. pneumoniae	tmpsmx	stateWPV	0.166816
+K. pneumoniae	tmpsmx	stateXYX	0.106758
+K. pneumoniae	tmpsmx	stateYJD	0.05
+K. pneumoniae	tmpsmx	stateYUW	0.09473
+K. pneumoniae	tmpsmx	stateYVE	0.118092
+K. pneumoniae	tmpsmx	stateZWS	0.126803
+Morganella	beta_lactam	stateCCZ	0.623562
+Morganella	beta_lactam	stateCUX	0.39
+Morganella	beta_lactam	stateCWD	0.636667
+Morganella	beta_lactam	stateCYL	0.03589
+Morganella	beta_lactam	stateEPB	0.702849
+Morganella	beta_lactam	stateERZ	0.582296
+Morganella	beta_lactam	stateEVG	0.466552
+Morganella	beta_lactam	stateGKW	0.625791
+Morganella	beta_lactam	stateIJE	0.535305
+Morganella	beta_lactam	stateIWK	0.517826
+Morganella	beta_lactam	stateJBF	0
+Morganella	beta_lactam	stateKFE	0.745989
+Morganella	beta_lactam	stateLJC	0.556326
+Morganella	beta_lactam	stateLWR	0.5
+Morganella	beta_lactam	stateMMO	0.332274
+Morganella	beta_lactam	stateNWF	0
+Morganella	beta_lactam	stateOUP	0.313506
+Morganella	beta_lactam	statePIO	0.291594
+Morganella	beta_lactam	stateRHV	0.465
+Morganella	beta_lactam	stateSHP	0.390357
+Morganella	beta_lactam	stateSLZ	0.53
+Morganella	beta_lactam	stateSNB	0.151423
+Morganella	beta_lactam	stateTMR	0.384635
+Morganella	beta_lactam	stateTOE	0.07
+Morganella	beta_lactam	stateUEQ	0.04
+Morganella	beta_lactam	stateUMX	0.596955
+Morganella	beta_lactam	stateVIE	0.43143
+Morganella	beta_lactam	stateVUS	0.47
+Morganella	beta_lactam	stateWPV	0.532409
+Morganella	beta_lactam	stateXYX	0.69747
+Morganella	beta_lactam	stateYJD	0.66
+Morganella	beta_lactam	stateYUW	0.006395
+Morganella	beta_lactam	stateYVE	0.27575
+Morganella	beta_lactam	stateZWS	0.670306
+P. aeruginosa	beta_lactam	stateBFU	0.034292
+P. aeruginosa	beta_lactam	stateCCZ	0.294034
+P. aeruginosa	beta_lactam	stateCUX	0.082357
+P. aeruginosa	beta_lactam	stateCWD	0.06252
+P. aeruginosa	beta_lactam	stateCYL	0.517152
+P. aeruginosa	beta_lactam	stateELN	0.033564
+P. aeruginosa	beta_lactam	stateEPB	0.131824
+P. aeruginosa	beta_lactam	stateERZ	0.054497
+P. aeruginosa	beta_lactam	stateEVG	0.113794
+P. aeruginosa	beta_lactam	stateGKW	0.009304
+P. aeruginosa	beta_lactam	stateHMP	0.18
+P. aeruginosa	beta_lactam	stateHQX	0.088293
+P. aeruginosa	beta_lactam	stateIJE	0.337013
+P. aeruginosa	beta_lactam	stateIWK	0.178079
+P. aeruginosa	beta_lactam	stateJBF	0.143577
+P. aeruginosa	beta_lactam	stateKFE	0.056566
+P. aeruginosa	beta_lactam	stateLJC	0.072778
+P. aeruginosa	beta_lactam	stateLMH	0.027076
+P. aeruginosa	beta_lactam	stateLWR	0.065049
+P. aeruginosa	beta_lactam	stateMMO	0.072756
+P. aeruginosa	beta_lactam	stateNWF	0.331042
+P. aeruginosa	beta_lactam	stateOUP	0.176679
+P. aeruginosa	beta_lactam	statePIO	0.076495
+P. aeruginosa	beta_lactam	statePJJ	0.065202
+P. aeruginosa	beta_lactam	stateQES	0
+P. aeruginosa	beta_lactam	stateRHV	0.132997
+P. aeruginosa	beta_lactam	stateSHP	0.07728
+P. aeruginosa	beta_lactam	stateSLZ	0.082762
+P. aeruginosa	beta_lactam	stateSNB	0.161789
+P. aeruginosa	beta_lactam	stateSTP	0.074639
+P. aeruginosa	beta_lactam	stateTGK	0.064833
+P. aeruginosa	beta_lactam	stateTMR	0.122044
+P. aeruginosa	beta_lactam	stateTOE	0.048205
+P. aeruginosa	beta_lactam	stateUEQ	0.11
+P. aeruginosa	beta_lactam	stateUMX	0.174026
+P. aeruginosa	beta_lactam	stateVIE	0.078286
+P. aeruginosa	beta_lactam	stateVUS	0.153758
+P. aeruginosa	beta_lactam	stateWFM	0.02
+P. aeruginosa	beta_lactam	stateWPV	0.133369
+P. aeruginosa	beta_lactam	stateXYX	0.294884
+P. aeruginosa	beta_lactam	stateYJD	0.13
+P. aeruginosa	beta_lactam	stateYUW	0.054205
+P. aeruginosa	beta_lactam	stateYVE	0.11194
+P. aeruginosa	beta_lactam	stateZWS	0.094895
+P. aeruginosa	cephalosporin	stateBFU	0.042592
+P. aeruginosa	cephalosporin	stateCCZ	0.254458
+P. aeruginosa	cephalosporin	stateCUX	0.094907
+P. aeruginosa	cephalosporin	stateCWD	0.31383
+P. aeruginosa	cephalosporin	stateCYL	0.466856
+P. aeruginosa	cephalosporin	stateELN	0.131057
+P. aeruginosa	cephalosporin	stateEPB	0.145514
+P. aeruginosa	cephalosporin	stateERZ	0.089245
+P. aeruginosa	cephalosporin	stateEVG	0.154505
+P. aeruginosa	cephalosporin	stateGKW	0.115638
+P. aeruginosa	cephalosporin	stateHMP	0.16
+P. aeruginosa	cephalosporin	stateHQX	0.062533
+P. aeruginosa	cephalosporin	stateIJE	0.385097
+P. aeruginosa	cephalosporin	stateIWK	0.190971
+P. aeruginosa	cephalosporin	stateJBF	0.147306
+P. aeruginosa	cephalosporin	stateKFE	0.121098
+P. aeruginosa	cephalosporin	stateLJC	0.197855
+P. aeruginosa	cephalosporin	stateLMH	0.11746
+P. aeruginosa	cephalosporin	stateLWR	0.262349
+P. aeruginosa	cephalosporin	stateMMO	0.090659
+P. aeruginosa	cephalosporin	stateNWF	0.211458
+P. aeruginosa	cephalosporin	stateOUP	0.146597
+P. aeruginosa	cephalosporin	statePIO	0.124551
+P. aeruginosa	cephalosporin	statePJJ	0.120024
+P. aeruginosa	cephalosporin	stateQES	0.165
+P. aeruginosa	cephalosporin	stateRHV	0.336684
+P. aeruginosa	cephalosporin	stateSHP	0.095236
+P. aeruginosa	cephalosporin	stateSLZ	0.186054
+P. aeruginosa	cephalosporin	stateSNB	0.107908
+P. aeruginosa	cephalosporin	stateSTP	0.052118
+P. aeruginosa	cephalosporin	stateTGK	0.100583
+P. aeruginosa	cephalosporin	stateTMR	0.095589
+P. aeruginosa	cephalosporin	stateTOE	0.06775
+P. aeruginosa	cephalosporin	stateUEQ	0.07
+P. aeruginosa	cephalosporin	stateUMX	0.181132
+P. aeruginosa	cephalosporin	stateVIE	0.138487
+P. aeruginosa	cephalosporin	stateVUS	0.167231
+P. aeruginosa	cephalosporin	stateWFM	0.05
+P. aeruginosa	cephalosporin	stateWPV	0.193664
+P. aeruginosa	cephalosporin	stateXYX	0.245666
+P. aeruginosa	cephalosporin	stateYJD	0.15
+P. aeruginosa	cephalosporin	stateYUW	0.142638
+P. aeruginosa	cephalosporin	stateYVE	0.165897
+P. aeruginosa	cephalosporin	stateZWS	0.184722
+P. aeruginosa	quinolone	stateBFU	0.17601
+P. aeruginosa	quinolone	stateCCZ	0.277748
+P. aeruginosa	quinolone	stateCUX	0.213569
+P. aeruginosa	quinolone	stateCWD	0.215591
+P. aeruginosa	quinolone	stateCYL	0.303471
+P. aeruginosa	quinolone	stateELN	0.165577
+P. aeruginosa	quinolone	stateEPB	0.191072
+P. aeruginosa	quinolone	stateERZ	0.184006
+P. aeruginosa	quinolone	stateEVG	0.218936
+P. aeruginosa	quinolone	stateGKW	0.22779
+P. aeruginosa	quinolone	stateHMP	0.24
+P. aeruginosa	quinolone	stateHQX	0.168373
+P. aeruginosa	quinolone	stateIJE	0.318718
+P. aeruginosa	quinolone	stateIWK	0.3381
+P. aeruginosa	quinolone	stateJBF	0.225228
+P. aeruginosa	quinolone	stateKFE	0.176912
+P. aeruginosa	quinolone	stateLJC	0.263386
+P. aeruginosa	quinolone	stateLMH	0.189898
+P. aeruginosa	quinolone	stateLWR	0.257563
+P. aeruginosa	quinolone	stateMMO	0.220598
+P. aeruginosa	quinolone	stateNWF	0.383505
+P. aeruginosa	quinolone	stateOUP	0.305294
+P. aeruginosa	quinolone	statePIO	0.211515
+P. aeruginosa	quinolone	statePJJ	0.318765
+P. aeruginosa	quinolone	stateQES	0.31
+P. aeruginosa	quinolone	stateRHV	0.341124
+P. aeruginosa	quinolone	stateSHP	0.246079
+P. aeruginosa	quinolone	stateSLZ	0.234918
+P. aeruginosa	quinolone	stateSNB	0.184331
+P. aeruginosa	quinolone	stateSTP	0.234624
+P. aeruginosa	quinolone	stateTGK	0.158417
+P. aeruginosa	quinolone	stateTMR	0.223052
+P. aeruginosa	quinolone	stateTOE	0.129918
+P. aeruginosa	quinolone	stateUEQ	0.2
+P. aeruginosa	quinolone	stateUMX	0.232315
+P. aeruginosa	quinolone	stateVIE	0.218511
+P. aeruginosa	quinolone	stateVUS	0.183758
+P. aeruginosa	quinolone	stateWFM	0.24
+P. aeruginosa	quinolone	stateWPV	0.365366
+P. aeruginosa	quinolone	stateXYX	0.170451
+P. aeruginosa	quinolone	stateYJD	0.36
+P. aeruginosa	quinolone	stateYUW	0.30838
+P. aeruginosa	quinolone	stateYVE	0.251745
+P. aeruginosa	quinolone	stateZWS	0.373534
+P. mirabilis	beta_lactam	stateBFU	0.131143
+P. mirabilis	beta_lactam	stateCCZ	0.083983
+P. mirabilis	beta_lactam	stateCUX	0.119683
+P. mirabilis	beta_lactam	stateCWD	0.153333
+P. mirabilis	beta_lactam	stateCYL	0.113582
+P. mirabilis	beta_lactam	stateELN	0.015423
+P. mirabilis	beta_lactam	stateEPB	0.128418
+P. mirabilis	beta_lactam	stateERZ	0.123122
+P. mirabilis	beta_lactam	stateEVG	0.094995
+P. mirabilis	beta_lactam	stateGKW	0.062134
+P. mirabilis	beta_lactam	stateHQX	0.257933
+P. mirabilis	beta_lactam	stateIJE	0.086119
+P. mirabilis	beta_lactam	stateIWK	0.066615
+P. mirabilis	beta_lactam	stateJBF	0.114392
+P. mirabilis	beta_lactam	stateKFE	0.109779
+P. mirabilis	beta_lactam	stateLJC	0.076834
+P. mirabilis	beta_lactam	stateLMH	0.114225
+P. mirabilis	beta_lactam	stateLWR	0.192978
+P. mirabilis	beta_lactam	stateMMO	0.167571
+P. mirabilis	beta_lactam	stateNWF	0.022467
+P. mirabilis	beta_lactam	stateOUP	0.146081
+P. mirabilis	beta_lactam	statePIO	0.070799
+P. mirabilis	beta_lactam	statePJJ	0.149298
+P. mirabilis	beta_lactam	stateRHV	0.09531
+P. mirabilis	beta_lactam	stateSHP	0.045208
+P. mirabilis	beta_lactam	stateSLZ	0.076364
+P. mirabilis	beta_lactam	stateSNB	0.103819
+P. mirabilis	beta_lactam	stateSTP	0.106789
+P. mirabilis	beta_lactam	stateTGK	0.023286
+P. mirabilis	beta_lactam	stateTMR	0.065522
+P. mirabilis	beta_lactam	stateTOE	0.068501
+P. mirabilis	beta_lactam	stateUEQ	0.066667
+P. mirabilis	beta_lactam	stateUMX	0.125257
+P. mirabilis	beta_lactam	stateVIE	0.096851
+P. mirabilis	beta_lactam	stateVUS	0.067855
+P. mirabilis	beta_lactam	stateWFM	0.16
+P. mirabilis	beta_lactam	stateWPV	0.110514
+P. mirabilis	beta_lactam	stateXYX	0.071739
+P. mirabilis	beta_lactam	stateYJD	0.21
+P. mirabilis	beta_lactam	stateYUW	0.073017
+P. mirabilis	beta_lactam	stateYVE	0.097167
+P. mirabilis	beta_lactam	stateZWS	0.125817
+P. mirabilis	cephalosporin	stateBFU	0.2104
+P. mirabilis	cephalosporin	stateCCZ	0.077874
+P. mirabilis	cephalosporin	stateCUX	0.17822
+P. mirabilis	cephalosporin	stateCWD	0.1575
+P. mirabilis	cephalosporin	stateCYL	0.085547
+P. mirabilis	cephalosporin	stateELN	0.002514
+P. mirabilis	cephalosporin	stateEPB	0.180157
+P. mirabilis	cephalosporin	stateERZ	0.152348
+P. mirabilis	cephalosporin	stateEVG	0.052768
+P. mirabilis	cephalosporin	stateGKW	0.050087
+P. mirabilis	cephalosporin	stateHQX	0.24871
+P. mirabilis	cephalosporin	stateIJE	0.089118
+P. mirabilis	cephalosporin	stateIWK	0.071512
+P. mirabilis	cephalosporin	stateJBF	0.11712
+P. mirabilis	cephalosporin	stateKFE	0.036095
+P. mirabilis	cephalosporin	stateLJC	0.070308
+P. mirabilis	cephalosporin	stateLMH	0.059777
+P. mirabilis	cephalosporin	stateLWR	0.05825
+P. mirabilis	cephalosporin	stateMMO	0.059843
+P. mirabilis	cephalosporin	stateNWF	0.023556
+P. mirabilis	cephalosporin	stateOUP	0.102525
+P. mirabilis	cephalosporin	statePIO	0.105351
+P. mirabilis	cephalosporin	statePJJ	0.07478
+P. mirabilis	cephalosporin	stateRHV	0.05011
+P. mirabilis	cephalosporin	stateSHP	0.049331
+P. mirabilis	cephalosporin	stateSLZ	0.04749
+P. mirabilis	cephalosporin	stateSNB	0.04076
+P. mirabilis	cephalosporin	stateSTP	0.033103
+P. mirabilis	cephalosporin	stateTGK	0.042535
+P. mirabilis	cephalosporin	stateTMR	0.024209
+P. mirabilis	cephalosporin	stateTOE	0.038648
+P. mirabilis	cephalosporin	stateUEQ	0.066667
+P. mirabilis	cephalosporin	stateUMX	0.108283
+P. mirabilis	cephalosporin	stateVIE	0.058614
+P. mirabilis	cephalosporin	stateVUS	0.012178
+P. mirabilis	cephalosporin	stateWFM	0.073333
+P. mirabilis	cephalosporin	stateWPV	0.048922
+P. mirabilis	cephalosporin	stateXYX	0.057444
+P. mirabilis	cephalosporin	stateYJD	0.023333
+P. mirabilis	cephalosporin	stateYUW	0.028886
+P. mirabilis	cephalosporin	stateYVE	0.056935
+P. mirabilis	cephalosporin	stateZWS	0.054403
+P. mirabilis	nitrofurantoin	stateCCZ	0.990412
+P. mirabilis	nitrofurantoin	stateCUX	0.99
+P. mirabilis	nitrofurantoin	stateCYL	0.99
+P. mirabilis	nitrofurantoin	stateELN	1
+P. mirabilis	nitrofurantoin	stateEPB	0.929591
+P. mirabilis	nitrofurantoin	stateERZ	0.99
+P. mirabilis	nitrofurantoin	stateGKW	0.99
+P. mirabilis	nitrofurantoin	stateHQX	0.99
+P. mirabilis	nitrofurantoin	stateIJE	0.987435
+P. mirabilis	nitrofurantoin	stateIWK	0.99
+P. mirabilis	nitrofurantoin	stateJBF	0.99
+P. mirabilis	nitrofurantoin	stateKFE	0.99
+P. mirabilis	nitrofurantoin	stateLJC	0.401755
+P. mirabilis	nitrofurantoin	stateLMH	1
+P. mirabilis	nitrofurantoin	stateLWR	0.99
+P. mirabilis	nitrofurantoin	stateMMO	0.995074
+P. mirabilis	nitrofurantoin	stateOUP	0.99
+P. mirabilis	nitrofurantoin	statePIO	0.99
+P. mirabilis	nitrofurantoin	statePJJ	0.99
+P. mirabilis	nitrofurantoin	stateSHP	0.99865
+P. mirabilis	nitrofurantoin	stateSLZ	0.99
+P. mirabilis	nitrofurantoin	stateSNB	0.566798
+P. mirabilis	nitrofurantoin	stateSTP	0.544168
+P. mirabilis	nitrofurantoin	stateTMR	0.990899
+P. mirabilis	nitrofurantoin	stateTOE	0.99
+P. mirabilis	nitrofurantoin	stateUMX	0.992537
+P. mirabilis	nitrofurantoin	stateVIE	0.991731
+P. mirabilis	nitrofurantoin	stateVUS	0.99
+P. mirabilis	nitrofurantoin	stateWPV	0.99033
+P. mirabilis	nitrofurantoin	stateXYX	0.99
+P. mirabilis	nitrofurantoin	stateYJD	0.99
+P. mirabilis	nitrofurantoin	stateYUW	0.997331
+P. mirabilis	nitrofurantoin	stateYVE	0.990707
+P. mirabilis	nitrofurantoin	stateZWS	0.989931
+P. mirabilis	quinolone	stateBFU	0.226857
+P. mirabilis	quinolone	stateCCZ	0.293106
+P. mirabilis	quinolone	stateCUX	0.242472
+P. mirabilis	quinolone	stateCWD	0.235
+P. mirabilis	quinolone	stateCYL	0.399104
+P. mirabilis	quinolone	stateELN	0.046687
+P. mirabilis	quinolone	stateEPB	0.262733
+P. mirabilis	quinolone	stateERZ	0.406871
+P. mirabilis	quinolone	stateEVG	0.164159
+P. mirabilis	quinolone	stateGKW	0.348033
+P. mirabilis	quinolone	stateHQX	0.334231
+P. mirabilis	quinolone	stateIJE	0.351527
+P. mirabilis	quinolone	stateIWK	0.241276
+P. mirabilis	quinolone	stateJBF	0.200239
+P. mirabilis	quinolone	stateKFE	0.199646
+P. mirabilis	quinolone	stateLJC	0.189704
+P. mirabilis	quinolone	stateLMH	0.304613
+P. mirabilis	quinolone	stateLWR	0.3588
+P. mirabilis	quinolone	stateMMO	0.304
+P. mirabilis	quinolone	stateNWF	0.088562
+P. mirabilis	quinolone	stateOUP	0.303867
+P. mirabilis	quinolone	statePIO	0.168525
+P. mirabilis	quinolone	statePJJ	0.427305
+P. mirabilis	quinolone	stateRHV	0.232868
+P. mirabilis	quinolone	stateSHP	0.164804
+P. mirabilis	quinolone	stateSLZ	0.202315
+P. mirabilis	quinolone	stateSNB	0.215771
+P. mirabilis	quinolone	stateSTP	0.358503
+P. mirabilis	quinolone	stateTGK	0.09169
+P. mirabilis	quinolone	stateTMR	0.206913
+P. mirabilis	quinolone	stateTOE	0.288222
+P. mirabilis	quinolone	stateUEQ	0.175
+P. mirabilis	quinolone	stateUMX	0.287475
+P. mirabilis	quinolone	stateVIE	0.247498
+P. mirabilis	quinolone	stateVUS	0.176733
+P. mirabilis	quinolone	stateWFM	0.34
+P. mirabilis	quinolone	stateWPV	0.57761
+P. mirabilis	quinolone	stateXYX	0.256326
+P. mirabilis	quinolone	stateYJD	0.44
+P. mirabilis	quinolone	stateYUW	0.405106
+P. mirabilis	quinolone	stateYVE	0.220059
+P. mirabilis	quinolone	stateZWS	0.646113
+P. mirabilis	tmpsmx	stateBFU	0.229371
+P. mirabilis	tmpsmx	stateCCZ	0.269753
+P. mirabilis	tmpsmx	stateCUX	0.243598
+P. mirabilis	tmpsmx	stateCWD	0.17
+P. mirabilis	tmpsmx	stateCYL	0.275672
+P. mirabilis	tmpsmx	stateELN	0.12226
+P. mirabilis	tmpsmx	stateEPB	0.278188
+P. mirabilis	tmpsmx	stateERZ	0.288816
+P. mirabilis	tmpsmx	stateEVG	0.180222
+P. mirabilis	tmpsmx	stateGKW	0.263054
+P. mirabilis	tmpsmx	stateHQX	0.337356
+P. mirabilis	tmpsmx	stateIJE	0.318567
+P. mirabilis	tmpsmx	stateIWK	0.22465
+P. mirabilis	tmpsmx	stateJBF	0.2029
+P. mirabilis	tmpsmx	stateKFE	0.250309
+P. mirabilis	tmpsmx	stateLJC	0.130962
+P. mirabilis	tmpsmx	stateLMH	0.349859
+P. mirabilis	tmpsmx	stateLWR	0.338933
+P. mirabilis	tmpsmx	stateMMO	0.299208
+P. mirabilis	tmpsmx	stateNWF	0.080693
+P. mirabilis	tmpsmx	stateOUP	0.320387
+P. mirabilis	tmpsmx	statePIO	0.15463
+P. mirabilis	tmpsmx	statePJJ	0.371292
+P. mirabilis	tmpsmx	stateRHV	0.16062
+P. mirabilis	tmpsmx	stateSHP	0.14255
+P. mirabilis	tmpsmx	stateSLZ	0.146006
+P. mirabilis	tmpsmx	stateSNB	0.192579
+P. mirabilis	tmpsmx	stateSTP	0.252668
+P. mirabilis	tmpsmx	stateTGK	0.098873
+P. mirabilis	tmpsmx	stateTMR	0.155259
+P. mirabilis	tmpsmx	stateTOE	0.240317
+P. mirabilis	tmpsmx	stateUEQ	0.13
+P. mirabilis	tmpsmx	stateUMX	0.303125
+P. mirabilis	tmpsmx	stateVIE	0.176707
+P. mirabilis	tmpsmx	stateVUS	0.163317
+P. mirabilis	tmpsmx	stateWFM	0.24
+P. mirabilis	tmpsmx	stateWPV	0.483104
+P. mirabilis	tmpsmx	stateXYX	0.230949
+P. mirabilis	tmpsmx	stateYJD	0.4
+P. mirabilis	tmpsmx	stateYUW	0.293967
+P. mirabilis	tmpsmx	stateYVE	0.187669
+P. mirabilis	tmpsmx	stateZWS	0.434778
+S. aureus	beta_lactam	stateBFU	0.528805
+S. aureus	beta_lactam	stateCCZ	0.56129
+S. aureus	beta_lactam	stateCUX	0.571366
+S. aureus	beta_lactam	stateCWD	0.500862
+S. aureus	beta_lactam	stateCYL	0.790046
+S. aureus	beta_lactam	stateELN	0.260081
+S. aureus	beta_lactam	stateEPB	0.516378
+S. aureus	beta_lactam	stateERZ	0.49508
+S. aureus	beta_lactam	stateEVG	0.373527
+S. aureus	beta_lactam	stateGKW	0.586357
+S. aureus	beta_lactam	stateHQX	0.338666
+S. aureus	beta_lactam	stateIJE	0.758899
+S. aureus	beta_lactam	stateIWK	0.469011
+S. aureus	beta_lactam	stateJBF	0.313977
+S. aureus	beta_lactam	stateKFE	0.586354
+S. aureus	beta_lactam	stateLJC	0.49571
+S. aureus	beta_lactam	stateLMH	0.458256
+S. aureus	beta_lactam	stateLWR	0.447547
+S. aureus	beta_lactam	stateMMO	0.649074
+S. aureus	beta_lactam	stateNWF	0.663579
+S. aureus	beta_lactam	stateOUP	0.475013
+S. aureus	beta_lactam	statePIO	0.348117
+S. aureus	beta_lactam	statePJJ	0.212455
+S. aureus	beta_lactam	stateQES	0.64
+S. aureus	beta_lactam	stateRHV	0.686341
+S. aureus	beta_lactam	stateSHP	0.430761
+S. aureus	beta_lactam	stateSLZ	0.515103
+S. aureus	beta_lactam	stateSNB	0.385314
+S. aureus	beta_lactam	stateSTP	0.476864
+S. aureus	beta_lactam	stateTGK	0.513666
+S. aureus	beta_lactam	stateTMR	0.677363
+S. aureus	beta_lactam	stateTOE	0.621797
+S. aureus	beta_lactam	stateUEQ	0.444984
+S. aureus	beta_lactam	stateUMX	0.491462
+S. aureus	beta_lactam	stateVIE	0.618397
+S. aureus	beta_lactam	stateVUS	0.58982
+S. aureus	beta_lactam	stateWFM	0.37
+S. aureus	beta_lactam	stateWPV	0.672127
+S. aureus	beta_lactam	stateXYX	0.536015
+S. aureus	beta_lactam	stateYJD	0.606015
+S. aureus	beta_lactam	stateYUW	0.33884
+S. aureus	beta_lactam	stateYVE	0.548599
+S. aureus	beta_lactam	stateZWS	0.726646
+S. aureus	cephalosporin	stateCCZ	0.4777
+S. aureus	cephalosporin	stateCUX	0.25099
+S. aureus	cephalosporin	stateCYL	0.418126
+S. aureus	cephalosporin	stateELN	0.320191
+S. aureus	cephalosporin	stateEPB	0.219594
+S. aureus	cephalosporin	stateEVG	0.305938
+S. aureus	cephalosporin	stateGKW	0.54039
+S. aureus	cephalosporin	stateIJE	0.521187
+S. aureus	cephalosporin	stateIWK	0.468152
+S. aureus	cephalosporin	stateJBF	0.433064
+S. aureus	cephalosporin	stateKFE	0.332347
+S. aureus	cephalosporin	stateLJC	0.350635
+S. aureus	cephalosporin	stateLMH	0.435725
+S. aureus	cephalosporin	stateLWR	0.379866
+S. aureus	cephalosporin	stateMMO	0.434376
+S. aureus	cephalosporin	stateNWF	0.446502
+S. aureus	cephalosporin	stateOUP	0.386771
+S. aureus	cephalosporin	statePIO	0.431988
+S. aureus	cephalosporin	statePJJ	0.132149
+S. aureus	cephalosporin	stateQES	0.64
+S. aureus	cephalosporin	stateRHV	0.649219
+S. aureus	cephalosporin	stateSHP	0.298009
+S. aureus	cephalosporin	stateSNB	0.309439
+S. aureus	cephalosporin	stateSTP	2.73e-4
+S. aureus	cephalosporin	stateTGK	0.404652
+S. aureus	cephalosporin	stateTMR	0.3
+S. aureus	cephalosporin	stateTOE	0.048544
+S. aureus	cephalosporin	stateUMX	0.31296
+S. aureus	cephalosporin	stateVIE	0.649034
+S. aureus	cephalosporin	stateWFM	0.36
+S. aureus	cephalosporin	stateWPV	0.365192
+S. aureus	cephalosporin	stateXYX	0.437321
+S. aureus	cephalosporin	stateYUW	0.3982
+S. aureus	cephalosporin	stateYVE	0.382714
+S. aureus	cephalosporin	stateZWS	0.526922
+S. aureus	macrolide	stateBFU	0.367018
+S. aureus	macrolide	stateCCZ	0.656755
+S. aureus	macrolide	stateCUX	0.578801
+S. aureus	macrolide	stateCWD	0.583163
+S. aureus	macrolide	stateCYL	0.4
+S. aureus	macrolide	stateELN	0.468177
+S. aureus	macrolide	stateEPB	0.611213
+S. aureus	macrolide	stateERZ	0.565807
+S. aureus	macrolide	stateEVG	0.555266
+S. aureus	macrolide	stateGKW	0.60338
+S. aureus	macrolide	stateHQX	0.55
+S. aureus	macrolide	stateIJE	0.63955
+S. aureus	macrolide	stateIWK	0.620143
+S. aureus	macrolide	stateJBF	0.515105
+S. aureus	macrolide	stateKFE	0.498207
+S. aureus	macrolide	stateLJC	0.594964
+S. aureus	macrolide	stateLMH	0.590181
+S. aureus	macrolide	stateLWR	0.544933
+S. aureus	macrolide	stateMMO	0.503069
+S. aureus	macrolide	stateNWF	0.595939
+S. aureus	macrolide	stateOUP	0.545757
+S. aureus	macrolide	statePIO	0.535522
+S. aureus	macrolide	statePJJ	0.620949
+S. aureus	macrolide	stateQES	0.75
+S. aureus	macrolide	stateRHV	0.706956
+S. aureus	macrolide	stateSHP	0.636486
+S. aureus	macrolide	stateSLZ	0.655415
+S. aureus	macrolide	stateSNB	0.574668
+S. aureus	macrolide	stateSTP	0.355269
+S. aureus	macrolide	stateTGK	0.522139
+S. aureus	macrolide	stateTMR	0.493669
+S. aureus	macrolide	stateTOE	0.467862
+S. aureus	macrolide	stateUEQ	0.601986
+S. aureus	macrolide	stateUMX	0.511749
+S. aureus	macrolide	stateVIE	0.525469
+S. aureus	macrolide	stateVUS	0.596188
+S. aureus	macrolide	stateWPV	0.715167
+S. aureus	macrolide	stateXYX	0.581683
+S. aureus	macrolide	stateYUW	0.565914
+S. aureus	macrolide	stateYVE	0.598713
+S. aureus	macrolide	stateZWS	0.747732
+S. aureus	nitrofurantoin	stateBFU	0.017558
+S. aureus	nitrofurantoin	stateCCZ	0.003384
+S. aureus	nitrofurantoin	stateCUX	0.001956
+S. aureus	nitrofurantoin	stateCWD	0.006861
+S. aureus	nitrofurantoin	stateCYL	0.003481
+S. aureus	nitrofurantoin	stateELN	0
+S. aureus	nitrofurantoin	stateEPB	0.004686
+S. aureus	nitrofurantoin	stateERZ	0.006582
+S. aureus	nitrofurantoin	stateGKW	0.005496
+S. aureus	nitrofurantoin	stateHQX	0.005896
+S. aureus	nitrofurantoin	stateIJE	0.023562
+S. aureus	nitrofurantoin	stateIWK	0.00901
+S. aureus	nitrofurantoin	stateJBF	0.001862
+S. aureus	nitrofurantoin	stateKFE	4.07e-4
+S. aureus	nitrofurantoin	stateLJC	0.01048
+S. aureus	nitrofurantoin	stateLMH	0.020037
+S. aureus	nitrofurantoin	stateLWR	0.035067
+S. aureus	nitrofurantoin	stateMMO	0.049534
+S. aureus	nitrofurantoin	stateNWF	0.05449
+S. aureus	nitrofurantoin	stateOUP	0.01624
+S. aureus	nitrofurantoin	statePIO	6.1e-4
+S. aureus	nitrofurantoin	statePJJ	0.00363
+S. aureus	nitrofurantoin	stateQES	0
+S. aureus	nitrofurantoin	stateSHP	0.008022
+S. aureus	nitrofurantoin	stateSLZ	0.08
+S. aureus	nitrofurantoin	stateSNB	0
+S. aureus	nitrofurantoin	stateSTP	0.021504
+S. aureus	nitrofurantoin	stateTGK	0.001238
+S. aureus	nitrofurantoin	stateTMR	0.018239
+S. aureus	nitrofurantoin	stateTOE	0
+S. aureus	nitrofurantoin	stateUMX	0.10208
+S. aureus	nitrofurantoin	stateVIE	0.008617
+S. aureus	nitrofurantoin	stateVUS	0.009487
+S. aureus	nitrofurantoin	stateWPV	0.015081
+S. aureus	nitrofurantoin	stateXYX	0.005823
+S. aureus	nitrofurantoin	stateYJD	0
+S. aureus	nitrofurantoin	stateYUW	0.001885
+S. aureus	nitrofurantoin	stateYVE	0.003634
+S. aureus	nitrofurantoin	stateZWS	0.016779
+S. aureus	quinolone	stateBFU	0.186522
+S. aureus	quinolone	stateCCZ	0.382574
+S. aureus	quinolone	stateCUX	0.312987
+S. aureus	quinolone	stateCWD	0.378763
+S. aureus	quinolone	stateCYL	0.392427
+S. aureus	quinolone	stateELN	0.226196
+S. aureus	quinolone	stateEPB	0.311509
+S. aureus	quinolone	stateEVG	0.196996
+S. aureus	quinolone	stateGKW	0.355895
+S. aureus	quinolone	stateHQX	0.33
+S. aureus	quinolone	stateIJE	0.248475
+S. aureus	quinolone	stateIWK	0.392156
+S. aureus	quinolone	stateJBF	0.329708
+S. aureus	quinolone	stateKFE	0.307675
+S. aureus	quinolone	stateLJC	0.367423
+S. aureus	quinolone	stateLMH	0.557113
+S. aureus	quinolone	stateLWR	0.32664
+S. aureus	quinolone	stateMMO	0.460749
+S. aureus	quinolone	stateNWF	0.377834
+S. aureus	quinolone	stateOUP	0.406012
+S. aureus	quinolone	statePIO	0.272213
+S. aureus	quinolone	statePJJ	0.120636
+S. aureus	quinolone	stateQES	0.64
+S. aureus	quinolone	stateRHV	0.365052
+S. aureus	quinolone	stateSHP	0.497398
+S. aureus	quinolone	stateSLZ	0.374657
+S. aureus	quinolone	stateSNB	0.142493
+S. aureus	quinolone	stateSTP	0.275182
+S. aureus	quinolone	stateTGK	0.291363
+S. aureus	quinolone	stateTMR	0.293458
+S. aureus	quinolone	stateTOE	0.314381
+S. aureus	quinolone	stateUMX	0.386093
+S. aureus	quinolone	stateVIE	0.349228
+S. aureus	quinolone	stateVUS	0.380176
+S. aureus	quinolone	stateWFM	0.38
+S. aureus	quinolone	stateWPV	0.618186
+S. aureus	quinolone	stateXYX	0.293004
+S. aureus	quinolone	stateYJD	0.52058
+S. aureus	quinolone	stateYUW	0.373964
+S. aureus	quinolone	stateYVE	0.43921
+S. aureus	quinolone	stateZWS	0.646847
+S. aureus	tetracycline	stateBFU	0.038917
+S. aureus	tetracycline	stateCCZ	0.052061
+S. aureus	tetracycline	stateCUX	0.057914
+S. aureus	tetracycline	stateCWD	0.056428
+S. aureus	tetracycline	stateCYL	0.050887
+S. aureus	tetracycline	stateELN	0.032388
+S. aureus	tetracycline	stateEPB	0.05129
+S. aureus	tetracycline	stateERZ	0.067643
+S. aureus	tetracycline	stateEVG	0.065308
+S. aureus	tetracycline	stateGKW	0.052987
+S. aureus	tetracycline	stateHQX	0.055251
+S. aureus	tetracycline	stateIJE	0.067212
+S. aureus	tetracycline	stateIWK	0.096111
+S. aureus	tetracycline	stateJBF	0.042537
+S. aureus	tetracycline	stateKFE	0.045466
+S. aureus	tetracycline	stateLJC	0.06199
+S. aureus	tetracycline	stateLMH	0.026408
+S. aureus	tetracycline	stateLWR	0.05
+S. aureus	tetracycline	stateMMO	0.031687
+S. aureus	tetracycline	stateOUP	0.056665
+S. aureus	tetracycline	statePIO	0.047653
+S. aureus	tetracycline	statePJJ	0.057178
+S. aureus	tetracycline	stateRHV	0.073967
+S. aureus	tetracycline	stateSHP	0.056012
+S. aureus	tetracycline	stateSLZ	0.049523
+S. aureus	tetracycline	stateSNB	0.047419
+S. aureus	tetracycline	stateSTP	0.078915
+S. aureus	tetracycline	stateTGK	0.035517
+S. aureus	tetracycline	stateTMR	0.059713
+S. aureus	tetracycline	stateTOE	0.03683
+S. aureus	tetracycline	stateUEQ	0.067729
+S. aureus	tetracycline	stateUMX	0.051736
+S. aureus	tetracycline	stateVIE	0.064842
+S. aureus	tetracycline	stateVUS	0.038357
+S. aureus	tetracycline	stateWFM	0.09
+S. aureus	tetracycline	stateWPV	0.117491
+S. aureus	tetracycline	stateXYX	0.036574
+S. aureus	tetracycline	stateYJD	0.038058
+S. aureus	tetracycline	stateYUW	0.061409
+S. aureus	tetracycline	stateYVE	0.043019
+S. aureus	tetracycline	stateZWS	0.117716
+S. aureus	tmpsmx	stateBFU	0.020937
+S. aureus	tmpsmx	stateCCZ	0.016684
+S. aureus	tmpsmx	stateCUX	0.027145
+S. aureus	tmpsmx	stateCWD	0.015555
+S. aureus	tmpsmx	stateCYL	0.023988
+S. aureus	tmpsmx	stateELN	0.04738
+S. aureus	tmpsmx	stateEPB	0.030361
+S. aureus	tmpsmx	stateERZ	0.010523
+S. aureus	tmpsmx	stateEVG	0.025187
+S. aureus	tmpsmx	stateGKW	0.037086
+S. aureus	tmpsmx	stateHQX	0.018388
+S. aureus	tmpsmx	stateIJE	0.095141
+S. aureus	tmpsmx	stateIWK	0.054425
+S. aureus	tmpsmx	stateJBF	0.021552
+S. aureus	tmpsmx	stateKFE	0.009206
+S. aureus	tmpsmx	stateLJC	0.022039
+S. aureus	tmpsmx	stateLMH	0.011128
+S. aureus	tmpsmx	stateLWR	0.015013
+S. aureus	tmpsmx	stateMMO	0.012061
+S. aureus	tmpsmx	stateNWF	0.028244
+S. aureus	tmpsmx	stateOUP	0.038549
+S. aureus	tmpsmx	statePIO	0.016251
+S. aureus	tmpsmx	statePJJ	0.035833
+S. aureus	tmpsmx	stateQES	0.07
+S. aureus	tmpsmx	stateRHV	0.016058
+S. aureus	tmpsmx	stateSHP	0.022435
+S. aureus	tmpsmx	stateSLZ	0.028115
+S. aureus	tmpsmx	stateSNB	0.021475
+S. aureus	tmpsmx	stateSTP	0.018385
+S. aureus	tmpsmx	stateTGK	0.011575
+S. aureus	tmpsmx	stateTMR	0.043128
+S. aureus	tmpsmx	stateTOE	0.01
+S. aureus	tmpsmx	stateUEQ	0.032778
+S. aureus	tmpsmx	stateUMX	0.021651
+S. aureus	tmpsmx	stateVIE	0.019278
+S. aureus	tmpsmx	stateVUS	0.020919
+S. aureus	tmpsmx	stateWFM	0
+S. aureus	tmpsmx	stateWPV	0.07322
+S. aureus	tmpsmx	stateXYX	0.026274
+S. aureus	tmpsmx	stateYJD	0.008058
+S. aureus	tmpsmx	stateYUW	0.006925
+S. aureus	tmpsmx	stateYVE	0.023274
+S. aureus	tmpsmx	stateZWS	0.067375
+S. pneumoniae	beta_lactam	stateBFU	0.133374
+S. pneumoniae	beta_lactam	stateCCZ	0.069828
+S. pneumoniae	beta_lactam	stateCUX	0.047244
+S. pneumoniae	beta_lactam	stateCWD	0.101887
+S. pneumoniae	beta_lactam	stateCYL	0.078816
+S. pneumoniae	beta_lactam	stateELN	0.133575
+S. pneumoniae	beta_lactam	stateEPB	0.194515
+S. pneumoniae	beta_lactam	stateERZ	0.138974
+S. pneumoniae	beta_lactam	stateEVG	0.131706
+S. pneumoniae	beta_lactam	stateGKW	0.220538
+S. pneumoniae	beta_lactam	stateHQX	0.172308
+S. pneumoniae	beta_lactam	stateIJE	0.113941
+S. pneumoniae	beta_lactam	stateIWK	0.204528
+S. pneumoniae	beta_lactam	stateJBF	0.119373
+S. pneumoniae	beta_lactam	stateKFE	0.057943
+S. pneumoniae	beta_lactam	stateLJC	0.167333
+S. pneumoniae	beta_lactam	stateLMH	0.018182
+S. pneumoniae	beta_lactam	stateLWR	0.05082
+S. pneumoniae	beta_lactam	stateMMO	0.093743
+S. pneumoniae	beta_lactam	stateOUP	0.108786
+S. pneumoniae	beta_lactam	statePIO	0.029492
+S. pneumoniae	beta_lactam	statePJJ	0.025757
+S. pneumoniae	beta_lactam	stateRHV	0.025962
+S. pneumoniae	beta_lactam	stateSHP	0.099403
+S. pneumoniae	beta_lactam	stateSLZ	0.138924
+S. pneumoniae	beta_lactam	stateSNB	0.123115
+S. pneumoniae	beta_lactam	stateSTP	0.081423
+S. pneumoniae	beta_lactam	stateTMR	0.165333
+S. pneumoniae	beta_lactam	stateTOE	0.039796
+S. pneumoniae	beta_lactam	stateUEQ	0.02
+S. pneumoniae	beta_lactam	stateUMX	0.179464
+S. pneumoniae	beta_lactam	stateVIE	0.048541
+S. pneumoniae	beta_lactam	stateVUS	0.05
+S. pneumoniae	beta_lactam	stateWPV	0.202943
+S. pneumoniae	beta_lactam	stateXYX	0.153107
+S. pneumoniae	beta_lactam	stateYJD	0.045
+S. pneumoniae	beta_lactam	stateYUW	0.329704
+S. pneumoniae	beta_lactam	stateYVE	0.10061
+S. pneumoniae	beta_lactam	stateZWS	0.116622
+S. pneumoniae	cephalosporin	stateBFU	0.03214
+S. pneumoniae	cephalosporin	stateCCZ	0.02478
+S. pneumoniae	cephalosporin	stateCUX	0.02
+S. pneumoniae	cephalosporin	stateCWD	0.019457
+S. pneumoniae	cephalosporin	stateCYL	0.069783
+S. pneumoniae	cephalosporin	stateELN	0.074185
+S. pneumoniae	cephalosporin	stateEPB	0.089619
+S. pneumoniae	cephalosporin	stateERZ	0.089259
+S. pneumoniae	cephalosporin	stateEVG	0.057452
+S. pneumoniae	cephalosporin	stateGKW	0.037051
+S. pneumoniae	cephalosporin	stateHQX	0.059487
+S. pneumoniae	cephalosporin	stateIJE	0.061817
+S. pneumoniae	cephalosporin	stateIWK	0.145094
+S. pneumoniae	cephalosporin	stateJBF	0.058735
+S. pneumoniae	cephalosporin	stateKFE	0.059023
+S. pneumoniae	cephalosporin	stateLJC	0.052159
+S. pneumoniae	cephalosporin	stateLMH	0.010505
+S. pneumoniae	cephalosporin	stateMMO	0.013851
+S. pneumoniae	cephalosporin	stateOUP	0.03826
+S. pneumoniae	cephalosporin	statePIO	0.010977
+S. pneumoniae	cephalosporin	statePJJ	0.08
+S. pneumoniae	cephalosporin	stateRHV	0.077692
+S. pneumoniae	cephalosporin	stateSHP	0.049506
+S. pneumoniae	cephalosporin	stateSLZ	0.035494
+S. pneumoniae	cephalosporin	stateSNB	0.123053
+S. pneumoniae	cephalosporin	stateSTP	0.018091
+S. pneumoniae	cephalosporin	stateTMR	0.065863
+S. pneumoniae	cephalosporin	stateTOE	0
+S. pneumoniae	cephalosporin	stateUEQ	0
+S. pneumoniae	cephalosporin	stateUMX	0.060737
+S. pneumoniae	cephalosporin	stateVIE	0.050609
+S. pneumoniae	cephalosporin	stateVUS	0.04
+S. pneumoniae	cephalosporin	stateWPV	0.090042
+S. pneumoniae	cephalosporin	stateXYX	0.065569
+S. pneumoniae	cephalosporin	stateYJD	0.05
+S. pneumoniae	cephalosporin	stateYUW	0.089256
+S. pneumoniae	cephalosporin	stateYVE	0.043866
+S. pneumoniae	cephalosporin	stateZWS	0.0669
+S. pneumoniae	macrolide	stateBFU	0.396788
+S. pneumoniae	macrolide	stateCCZ	0.540913
+S. pneumoniae	macrolide	stateCUX	0.481538
+S. pneumoniae	macrolide	stateCWD	0.541087
+S. pneumoniae	macrolide	stateCYL	0.525854
+S. pneumoniae	macrolide	stateELN	0.353267
+S. pneumoniae	macrolide	stateEPB	0.480632
+S. pneumoniae	macrolide	stateERZ	0.632051
+S. pneumoniae	macrolide	stateEVG	0.404182
+S. pneumoniae	macrolide	stateGKW	0.405115
+S. pneumoniae	macrolide	stateHQX	0.482564
+S. pneumoniae	macrolide	stateIJE	0.43038
+S. pneumoniae	macrolide	stateIWK	0.313191
+S. pneumoniae	macrolide	stateJBF	0.37905
+S. pneumoniae	macrolide	stateKFE	0.312073
+S. pneumoniae	macrolide	stateLJC	0.430217
+S. pneumoniae	macrolide	stateLMH	0.332626
+S. pneumoniae	macrolide	stateLWR	0.258076
+S. pneumoniae	macrolide	stateMMO	0.460455
+S. pneumoniae	macrolide	stateOUP	0.296499
+S. pneumoniae	macrolide	statePIO	0.406732
+S. pneumoniae	macrolide	statePJJ	0.467003
+S. pneumoniae	macrolide	stateRHV	0.588365
+S. pneumoniae	macrolide	stateSHP	0.429743
+S. pneumoniae	macrolide	stateSLZ	0.724218
+S. pneumoniae	macrolide	stateSNB	0.446854
+S. pneumoniae	macrolide	stateSTP	0.33779
+S. pneumoniae	macrolide	stateTMR	0.403086
+S. pneumoniae	macrolide	stateTOE	0.138571
+S. pneumoniae	macrolide	stateUEQ	0.42
+S. pneumoniae	macrolide	stateUMX	0.287638
+S. pneumoniae	macrolide	stateVIE	0.508224
+S. pneumoniae	macrolide	stateWPV	0.442836
+S. pneumoniae	macrolide	stateXYX	0.50114
+S. pneumoniae	macrolide	stateYJD	0.35
+S. pneumoniae	macrolide	stateYUW	0.466444
+S. pneumoniae	macrolide	stateYVE	0.398203
+S. pneumoniae	macrolide	stateZWS	0.438571
+S. pneumoniae	quinolone	stateBFU	0.009611
+S. pneumoniae	quinolone	stateCCZ	0.02891
+S. pneumoniae	quinolone	stateCUX	0.021399
+S. pneumoniae	quinolone	stateCWD	0.01
+S. pneumoniae	quinolone	stateCYL	0.036324
+S. pneumoniae	quinolone	stateELN	0.005007
+S. pneumoniae	quinolone	stateEPB	0.009922
+S. pneumoniae	quinolone	stateERZ	0.005983
+S. pneumoniae	quinolone	stateEVG	0.024463
+S. pneumoniae	quinolone	stateGKW	0.008615
+S. pneumoniae	quinolone	stateHQX	0.020513
+S. pneumoniae	quinolone	stateIJE	0.010475
+S. pneumoniae	quinolone	stateIWK	0
+S. pneumoniae	quinolone	stateJBF	0
+S. pneumoniae	quinolone	stateKFE	0.013177
+S. pneumoniae	quinolone	stateLJC	0.047412
+S. pneumoniae	quinolone	stateLMH	0.011515
+S. pneumoniae	quinolone	stateLWR	0.03
+S. pneumoniae	quinolone	stateMMO	0
+S. pneumoniae	quinolone	stateOUP	0.010047
+S. pneumoniae	quinolone	statePIO	0.005116
+S. pneumoniae	quinolone	statePJJ	0.018564
+S. pneumoniae	quinolone	stateRHV	0.017019
+S. pneumoniae	quinolone	stateSHP	0
+S. pneumoniae	quinolone	stateSLZ	0.014564
+S. pneumoniae	quinolone	stateSNB	0.061082
+S. pneumoniae	quinolone	stateSTP	0.020412
+S. pneumoniae	quinolone	stateTMR	0.008891
+S. pneumoniae	quinolone	stateTOE	0
+S. pneumoniae	quinolone	stateUEQ	0
+S. pneumoniae	quinolone	stateUMX	0.003211
+S. pneumoniae	quinolone	stateVIE	0.00785
+S. pneumoniae	quinolone	stateWPV	0.034483
+S. pneumoniae	quinolone	stateXYX	0.020272
+S. pneumoniae	quinolone	stateYJD	0.08
+S. pneumoniae	quinolone	stateYUW	0.008235
+S. pneumoniae	quinolone	stateYVE	0.026052
+S. pneumoniae	quinolone	stateZWS	0.023744
+S. pneumoniae	tetracycline	stateBFU	0.1561
+S. pneumoniae	tetracycline	stateCCZ	0.23573
+S. pneumoniae	tetracycline	stateCUX	0.17
+S. pneumoniae	tetracycline	stateCWD	0.148943
+S. pneumoniae	tetracycline	stateCYL	0.19
+S. pneumoniae	tetracycline	stateELN	0.261176
+S. pneumoniae	tetracycline	stateEPB	0.230546
+S. pneumoniae	tetracycline	stateERZ	0.313846
+S. pneumoniae	tetracycline	stateEVG	0.478083
+S. pneumoniae	tetracycline	stateGKW	0.232423
+S. pneumoniae	tetracycline	stateHQX	0.03
+S. pneumoniae	tetracycline	stateIJE	0.225025
+S. pneumoniae	tetracycline	stateIWK	0.31
+S. pneumoniae	tetracycline	stateJBF	0.166927
+S. pneumoniae	tetracycline	stateKFE	0.177485
+S. pneumoniae	tetracycline	stateLJC	0.255341
+S. pneumoniae	tetracycline	stateLMH	0.218283
+S. pneumoniae	tetracycline	stateMMO	0.178952
+S. pneumoniae	tetracycline	stateOUP	0.163809
+S. pneumoniae	tetracycline	statePIO	0.19214
+S. pneumoniae	tetracycline	statePJJ	0.233292
+S. pneumoniae	tetracycline	stateRHV	0.331635
+S. pneumoniae	tetracycline	stateSHP	0.25
+S. pneumoniae	tetracycline	stateSLZ	0.260298
+S. pneumoniae	tetracycline	stateSNB	0.207722
+S. pneumoniae	tetracycline	stateSTP	0.1075
+S. pneumoniae	tetracycline	stateTMR	0.108661
+S. pneumoniae	tetracycline	stateTOE	0.1
+S. pneumoniae	tetracycline	stateUMX	0.305991
+S. pneumoniae	tetracycline	stateVIE	0.150374
+S. pneumoniae	tetracycline	stateWPV	0.19625
+S. pneumoniae	tetracycline	stateXYX	0.15961
+S. pneumoniae	tetracycline	stateYJD	0.21
+S. pneumoniae	tetracycline	stateYUW	0.154741
+S. pneumoniae	tetracycline	stateYVE	0.205751
+S. pneumoniae	tetracycline	stateZWS	0.211489
+S. pneumoniae	tmpsmx	stateBFU	0.190428
+S. pneumoniae	tmpsmx	stateCCZ	0.272951
+S. pneumoniae	tmpsmx	stateCUX	0.24
+S. pneumoniae	tmpsmx	stateCWD	0.279758
+S. pneumoniae	tmpsmx	stateCYL	0.252687
+S. pneumoniae	tmpsmx	stateELN	0.202993
+S. pneumoniae	tmpsmx	stateEPB	0.403132
+S. pneumoniae	tmpsmx	stateERZ	0.293846
+S. pneumoniae	tmpsmx	stateEVG	0.209833
+S. pneumoniae	tmpsmx	stateGKW	0.217462
+S. pneumoniae	tmpsmx	stateHQX	0.267863
+S. pneumoniae	tmpsmx	stateIJE	0.3019
+S. pneumoniae	tmpsmx	stateIWK	0.191915
+S. pneumoniae	tmpsmx	stateJBF	0.295806
+S. pneumoniae	tmpsmx	stateKFE	0.200608
+S. pneumoniae	tmpsmx	stateLJC	0.266364
+S. pneumoniae	tmpsmx	stateLMH	0.264141
+S. pneumoniae	tmpsmx	stateLWR	0.24
+S. pneumoniae	tmpsmx	stateMMO	0.245749
+S. pneumoniae	tmpsmx	stateOUP	0.212925
+S. pneumoniae	tmpsmx	statePIO	0.183674
+S. pneumoniae	tmpsmx	statePJJ	0.223488
+S. pneumoniae	tmpsmx	stateRHV	0.36
+S. pneumoniae	tmpsmx	stateSHP	0.202
+S. pneumoniae	tmpsmx	stateSLZ	0.458372
+S. pneumoniae	tmpsmx	stateSNB	0.248199
+S. pneumoniae	tmpsmx	stateSTP	0.240075
+S. pneumoniae	tmpsmx	stateTMR	0.216731
+S. pneumoniae	tmpsmx	stateTOE	0.1
+S. pneumoniae	tmpsmx	stateUEQ	0.19
+S. pneumoniae	tmpsmx	stateUMX	0.309856
+S. pneumoniae	tmpsmx	stateVIE	0.137259
+S. pneumoniae	tmpsmx	stateWPV	0.324516
+S. pneumoniae	tmpsmx	stateXYX	0.340821
+S. pneumoniae	tmpsmx	stateYJD	0.16
+S. pneumoniae	tmpsmx	stateYUW	0.22
+S. pneumoniae	tmpsmx	stateYVE	0.192112
+S. pneumoniae	tmpsmx	stateZWS	0.208069
+Serratia	beta_lactam	stateCCZ	0.579607
+Serratia	beta_lactam	stateCWD	0.02
+Serratia	beta_lactam	stateCYL	0.52658
+Serratia	beta_lactam	stateELN	0
+Serratia	beta_lactam	stateEPB	0.392578
+Serratia	beta_lactam	stateERZ	0.590698
+Serratia	beta_lactam	stateEVG	0.06878
+Serratia	beta_lactam	stateGKW	0.87953
+Serratia	beta_lactam	stateIJE	0.503015
+Serratia	beta_lactam	stateIWK	0.2375
+Serratia	beta_lactam	stateJBF	0
+Serratia	beta_lactam	stateKFE	0.244167
+Serratia	beta_lactam	stateLJC	0.605434
+Serratia	beta_lactam	stateLWR	0.217143
+Serratia	beta_lactam	stateNWF	0.009262
+Serratia	beta_lactam	stateOUP	0.24478
+Serratia	beta_lactam	statePIO	0.16645
+Serratia	beta_lactam	statePJJ	0.07
+Serratia	beta_lactam	stateRHV	0.64
+Serratia	beta_lactam	stateSHP	0.067809
+Serratia	beta_lactam	stateSLZ	0.361728
+Serratia	beta_lactam	stateSNB	0.513258
+Serratia	beta_lactam	stateSTP	0.03
+Serratia	beta_lactam	stateTMR	0.412928
+Serratia	beta_lactam	stateTOE	0.07
+Serratia	beta_lactam	stateUEQ	0.01
+Serratia	beta_lactam	stateUMX	0.325176
+Serratia	beta_lactam	stateVIE	0.314145
+Serratia	beta_lactam	stateVUS	0.008986
+Serratia	beta_lactam	stateWFM	0.08
+Serratia	beta_lactam	stateWPV	0.60512
+Serratia	beta_lactam	stateXYX	0.387676
+Serratia	beta_lactam	stateYUW	0.171068
+Serratia	beta_lactam	stateYVE	0.358126
+Serratia	beta_lactam	stateZWS	0.703566
+Serratia	cephalosporin	stateBFU	0.012047
+Serratia	cephalosporin	stateCCZ	0.322062
+Serratia	cephalosporin	stateCUX	0.06
+Serratia	cephalosporin	stateCWD	0.2725
+Serratia	cephalosporin	stateCYL	0.185409
+Serratia	cephalosporin	stateELN	0.052002
+Serratia	cephalosporin	stateEPB	0.209413
+Serratia	cephalosporin	stateERZ	0.523912
+Serratia	cephalosporin	stateEVG	0.048923
+Serratia	cephalosporin	stateGKW	0.177131
+Serratia	cephalosporin	stateHQX	0.073773
+Serratia	cephalosporin	stateIJE	0.252051
+Serratia	cephalosporin	stateIWK	0.221854
+Serratia	cephalosporin	stateJBF	0.092674
+Serratia	cephalosporin	stateKFE	0.252708
+Serratia	cephalosporin	stateLJC	0.228211
+Serratia	cephalosporin	stateLMH	0.011788
+Serratia	cephalosporin	stateLWR	0.126825
+Serratia	cephalosporin	stateMMO	0.172673
+Serratia	cephalosporin	stateNWF	0.022746
+Serratia	cephalosporin	stateOUP	0.093836
+Serratia	cephalosporin	statePIO	0.201372
+Serratia	cephalosporin	statePJJ	0.03
+Serratia	cephalosporin	stateRHV	0.26025
+Serratia	cephalosporin	stateSHP	0.054141
+Serratia	cephalosporin	stateSLZ	0.332385
+Serratia	cephalosporin	stateSNB	0.126148
+Serratia	cephalosporin	stateSTP	0.015
+Serratia	cephalosporin	stateTMR	0.154891
+Serratia	cephalosporin	stateTOE	0.073333
+Serratia	cephalosporin	stateUEQ	0.03
+Serratia	cephalosporin	stateUMX	0.174787
+Serratia	cephalosporin	stateVIE	0.247487
+Serratia	cephalosporin	stateVUS	0.021014
+Serratia	cephalosporin	stateWFM	0.05
+Serratia	cephalosporin	stateWPV	0.242174
+Serratia	cephalosporin	stateXYX	0.08764
+Serratia	cephalosporin	stateYJD	0.386667
+Serratia	cephalosporin	stateYUW	0.129345
+Serratia	cephalosporin	stateYVE	0.171062
+Serratia	cephalosporin	stateZWS	0.497889
+Serratia	quinolone	stateBFU	0.02924
+Serratia	quinolone	stateCCZ	0.049837
+Serratia	quinolone	stateCUX	0.06
+Serratia	quinolone	stateCWD	0.02
+Serratia	quinolone	stateCYL	0.014981
+Serratia	quinolone	stateELN	0.049484
+Serratia	quinolone	stateEPB	0.065433
+Serratia	quinolone	stateERZ	0.036121
+Serratia	quinolone	stateEVG	0.032511
+Serratia	quinolone	stateGKW	0.022478
+Serratia	quinolone	stateHQX	0.035455
+Serratia	quinolone	stateIJE	0.068879
+Serratia	quinolone	stateIWK	0.046011
+Serratia	quinolone	stateJBF	0.104576
+Serratia	quinolone	stateKFE	0.061667
+Serratia	quinolone	stateLJC	0.009268
+Serratia	quinolone	stateLMH	0.060511
+Serratia	quinolone	stateLWR	0.084286
+Serratia	quinolone	stateMMO	0.030806
+Serratia	quinolone	stateNWF	0.036311
+Serratia	quinolone	stateOUP	0.068366
+Serratia	quinolone	statePIO	0.064643
+Serratia	quinolone	statePJJ	0.07
+Serratia	quinolone	stateRHV	0.0755
+Serratia	quinolone	stateSHP	0.061281
+Serratia	quinolone	stateSLZ	0.086308
+Serratia	quinolone	stateSNB	0.081189
+Serratia	quinolone	stateSTP	0.01
+Serratia	quinolone	stateTMR	0.074818
+Serratia	quinolone	stateTOE	0.02
+Serratia	quinolone	stateUEQ	0.055
+Serratia	quinolone	stateUMX	0.0665
+Serratia	quinolone	stateVIE	0.12031
+Serratia	quinolone	stateVUS	0.027536
+Serratia	quinolone	stateWFM	0.03
+Serratia	quinolone	stateWPV	0.140976
+Serratia	quinolone	stateXYX	0.029349
+Serratia	quinolone	stateYJD	0.17
+Serratia	quinolone	stateYUW	0.109466
+Serratia	quinolone	stateYVE	0.023371
+Serratia	quinolone	stateZWS	0.165565
+Serratia	tmpsmx	stateBFU	0.019608
+Serratia	tmpsmx	stateCCZ	0.028179
+Serratia	tmpsmx	stateCYL	0.053506
+Serratia	tmpsmx	stateELN	0.058077
+Serratia	tmpsmx	stateEPB	0.063477
+Serratia	tmpsmx	stateERZ	0.036552
+Serratia	tmpsmx	stateEVG	0.010298
+Serratia	tmpsmx	stateGKW	0.005802
+Serratia	tmpsmx	stateHQX	0
+Serratia	tmpsmx	stateIJE	0.056616
+Serratia	tmpsmx	stateIWK	0.001461
+Serratia	tmpsmx	stateJBF	0.038757
+Serratia	tmpsmx	stateKFE	0
+Serratia	tmpsmx	stateLJC	0.026748
+Serratia	tmpsmx	stateLMH	0.011034
+Serratia	tmpsmx	stateLWR	0.04619
+Serratia	tmpsmx	stateMMO	0
+Serratia	tmpsmx	stateNWF	0.01
+Serratia	tmpsmx	stateOUP	0.050938
+Serratia	tmpsmx	statePIO	0.004553
+Serratia	tmpsmx	stateRHV	0.031
+Serratia	tmpsmx	stateSHP	0.037209
+Serratia	tmpsmx	stateSLZ	0.047462
+Serratia	tmpsmx	stateSNB	0.063566
+Serratia	tmpsmx	stateSTP	0
+Serratia	tmpsmx	stateTMR	0.042765
+Serratia	tmpsmx	stateTOE	0.02
+Serratia	tmpsmx	stateUEQ	0.01
+Serratia	tmpsmx	stateUMX	0.020259
+Serratia	tmpsmx	stateVIE	0.716923
+Serratia	tmpsmx	stateVUS	0.03
+Serratia	tmpsmx	stateWPV	0.066545000000000007
+Serratia	tmpsmx	stateXYX	0.053391
+Serratia	tmpsmx	stateYJD	0
+Serratia	tmpsmx	stateYUW	0.051505
+Serratia	tmpsmx	stateYVE	0.013333
+Serratia	tmpsmx	stateZWS	0.086339
+Stenotrophomonas	tmpsmx	stateCCZ	0.02754
+Stenotrophomonas	tmpsmx	stateCUX	0
+Stenotrophomonas	tmpsmx	stateCYL	0.019948
+Stenotrophomonas	tmpsmx	stateEPB	0.05073
+Stenotrophomonas	tmpsmx	stateERZ	0.01284
+Stenotrophomonas	tmpsmx	stateEVG	0.02
+Stenotrophomonas	tmpsmx	stateGKW	0.06498
+Stenotrophomonas	tmpsmx	stateHQX	0.11
+Stenotrophomonas	tmpsmx	stateIJE	0.032015
+Stenotrophomonas	tmpsmx	stateIWK	0.02
+Stenotrophomonas	tmpsmx	stateJBF	0.157143
+Stenotrophomonas	tmpsmx	stateKFE	0.087822
+Stenotrophomonas	tmpsmx	stateLMH	0.02
+Stenotrophomonas	tmpsmx	stateLWR	0.034659
+Stenotrophomonas	tmpsmx	stateMMO	0.116277
+Stenotrophomonas	tmpsmx	stateOUP	0.116807
+Stenotrophomonas	tmpsmx	statePIO	0.2
+Stenotrophomonas	tmpsmx	statePJJ	0.05
+Stenotrophomonas	tmpsmx	stateRHV	0.02
+Stenotrophomonas	tmpsmx	stateSHP	0.047898
+Stenotrophomonas	tmpsmx	stateSLZ	0.06025
+Stenotrophomonas	tmpsmx	stateSNB	0.097464
+Stenotrophomonas	tmpsmx	stateTMR	0.120927
+Stenotrophomonas	tmpsmx	stateTOE	0
+Stenotrophomonas	tmpsmx	stateUEQ	0.02
+Stenotrophomonas	tmpsmx	stateUMX	0.055714
+Stenotrophomonas	tmpsmx	stateVIE	0.027876
+Stenotrophomonas	tmpsmx	stateVUS	0.144698
+Stenotrophomonas	tmpsmx	stateWFM	0.11
+Stenotrophomonas	tmpsmx	stateWPV	0.143184
+Stenotrophomonas	tmpsmx	stateXYX	0.094942
+Stenotrophomonas	tmpsmx	stateYUW	0.02
+Stenotrophomonas	tmpsmx	stateYVE	0.052965
+Stenotrophomonas	tmpsmx	stateZWS	0.098162
